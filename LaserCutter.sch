@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,18 +53,18 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
-<layer number="60" name="p_dimension" color="6" fill="0" visible="no" active="no"/>
-<layer number="61" name="pt_docu" color="7" fill="0" visible="no" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="60" name="p_dimension" color="6" fill="0" visible="yes" active="no"/>
+<layer number="61" name="pt_docu" color="7" fill="0" visible="yes" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -13848,105 +13848,6 @@ grid 2.5 mm, outline 2.4 x 4.4 mm</description>
 </library>
 <library name="SparkFun">
 <packages>
-<package name="2X3">
-<wire x1="-1.27" y1="-0.635" x2="-0.635" y2="-1.27" width="0.2032" layer="21"/>
-<wire x1="0.635" y1="-1.27" x2="1.27" y2="-0.635" width="0.2032" layer="21"/>
-<wire x1="1.27" y1="-0.635" x2="1.905" y2="-1.27" width="0.2032" layer="21"/>
-<wire x1="3.175" y1="-1.27" x2="3.81" y2="-0.635" width="0.2032" layer="21"/>
-<wire x1="3.81" y1="-0.635" x2="4.445" y2="-1.27" width="0.2032" layer="21"/>
-<wire x1="5.715" y1="-1.27" x2="6.35" y2="-0.635" width="0.2032" layer="21"/>
-<wire x1="-1.27" y1="-0.635" x2="-1.27" y2="3.175" width="0.2032" layer="21"/>
-<wire x1="-1.27" y1="3.175" x2="-0.635" y2="3.81" width="0.2032" layer="21"/>
-<wire x1="-0.635" y1="3.81" x2="0.635" y2="3.81" width="0.2032" layer="21"/>
-<wire x1="0.635" y1="3.81" x2="1.27" y2="3.175" width="0.2032" layer="21"/>
-<wire x1="1.27" y1="3.175" x2="1.905" y2="3.81" width="0.2032" layer="21"/>
-<wire x1="1.905" y1="3.81" x2="3.175" y2="3.81" width="0.2032" layer="21"/>
-<wire x1="3.175" y1="3.81" x2="3.81" y2="3.175" width="0.2032" layer="21"/>
-<wire x1="3.81" y1="3.175" x2="4.445" y2="3.81" width="0.2032" layer="21"/>
-<wire x1="4.445" y1="3.81" x2="5.715" y2="3.81" width="0.2032" layer="21"/>
-<wire x1="5.715" y1="3.81" x2="6.35" y2="3.175" width="0.2032" layer="21"/>
-<wire x1="1.27" y1="3.175" x2="1.27" y2="-0.635" width="0.2032" layer="21"/>
-<wire x1="3.81" y1="3.175" x2="3.81" y2="-0.635" width="0.2032" layer="21"/>
-<wire x1="6.35" y1="3.175" x2="6.35" y2="-0.635" width="0.2032" layer="21"/>
-<wire x1="4.445" y1="-1.27" x2="5.715" y2="-1.27" width="0.2032" layer="21"/>
-<wire x1="1.905" y1="-1.27" x2="3.175" y2="-1.27" width="0.2032" layer="21"/>
-<wire x1="-0.635" y1="-1.27" x2="0.635" y2="-1.27" width="0.2032" layer="21"/>
-<wire x1="0.635" y1="-1.605" x2="-0.635" y2="-1.605" width="0.2032" layer="21"/>
-<pad name="1" x="0" y="0" drill="1.016" diameter="1.8796" shape="octagon"/>
-<pad name="2" x="0" y="2.54" drill="1.016" diameter="1.8796" shape="octagon"/>
-<pad name="3" x="2.54" y="0" drill="1.016" diameter="1.8796" shape="octagon"/>
-<pad name="4" x="2.54" y="2.54" drill="1.016" diameter="1.8796" shape="octagon"/>
-<pad name="5" x="5.08" y="0" drill="1.016" diameter="1.8796" shape="octagon"/>
-<pad name="6" x="5.08" y="2.54" drill="1.016" diameter="1.8796" shape="octagon"/>
-<text x="-1.27" y="4.445" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<text x="-1.27" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
-<rectangle x1="-0.254" y1="-0.254" x2="0.254" y2="0.254" layer="51"/>
-<rectangle x1="-0.254" y1="2.286" x2="0.254" y2="2.794" layer="51"/>
-<rectangle x1="2.286" y1="2.286" x2="2.794" y2="2.794" layer="51"/>
-<rectangle x1="2.286" y1="-0.254" x2="2.794" y2="0.254" layer="51"/>
-<rectangle x1="4.826" y1="2.286" x2="5.334" y2="2.794" layer="51"/>
-<rectangle x1="4.826" y1="-0.254" x2="5.334" y2="0.254" layer="51"/>
-</package>
-<package name="2X3-NS">
-<wire x1="-3.81" y1="-1.905" x2="-3.175" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="-1.905" y1="-2.54" x2="-1.27" y2="-1.905" width="0.2032" layer="51"/>
-<wire x1="-1.27" y1="-1.905" x2="-0.635" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="0.635" y1="-2.54" x2="1.27" y2="-1.905" width="0.2032" layer="51"/>
-<wire x1="1.27" y1="-1.905" x2="1.905" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="3.175" y1="-2.54" x2="3.81" y2="-1.905" width="0.2032" layer="51"/>
-<wire x1="-3.81" y1="-1.905" x2="-3.81" y2="1.905" width="0.2032" layer="51"/>
-<wire x1="-3.81" y1="1.905" x2="-3.175" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="-3.175" y1="2.54" x2="-1.905" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="-1.905" y1="2.54" x2="-1.27" y2="1.905" width="0.2032" layer="51"/>
-<wire x1="-1.27" y1="1.905" x2="-0.635" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="-0.635" y1="2.54" x2="0.635" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="0.635" y1="2.54" x2="1.27" y2="1.905" width="0.2032" layer="51"/>
-<wire x1="1.27" y1="1.905" x2="1.905" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="1.905" y1="2.54" x2="3.175" y2="2.54" width="0.2032" layer="51"/>
-<wire x1="3.175" y1="2.54" x2="3.81" y2="1.905" width="0.2032" layer="51"/>
-<wire x1="-1.27" y1="1.905" x2="-1.27" y2="-1.905" width="0.2032" layer="51"/>
-<wire x1="1.27" y1="1.905" x2="1.27" y2="-1.905" width="0.2032" layer="51"/>
-<wire x1="3.81" y1="1.905" x2="3.81" y2="-1.905" width="0.2032" layer="51"/>
-<wire x1="1.905" y1="-2.54" x2="3.175" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="-0.635" y1="-2.54" x2="0.635" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="-3.175" y1="-2.54" x2="-1.905" y2="-2.54" width="0.2032" layer="51"/>
-<wire x1="-1.905" y1="-2.875" x2="-3.175" y2="-2.875" width="0.2032" layer="51"/>
-<pad name="1" x="-2.54" y="-1.27" drill="1.016" diameter="1.8796" shape="square"/>
-<pad name="2" x="-2.54" y="1.27" drill="1.016" diameter="1.8796" shape="octagon"/>
-<pad name="3" x="0" y="-1.27" drill="1.016" diameter="1.8796" shape="octagon"/>
-<pad name="4" x="0" y="1.27" drill="1.016" diameter="1.8796" shape="octagon"/>
-<pad name="5" x="2.54" y="-1.27" drill="1.016" diameter="1.8796" shape="octagon"/>
-<pad name="6" x="2.54" y="1.27" drill="1.016" diameter="1.8796" shape="octagon"/>
-<text x="-3.81" y="3.175" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<text x="-3.81" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
-<rectangle x1="-2.794" y1="-1.524" x2="-2.286" y2="-1.016" layer="51"/>
-<rectangle x1="-2.794" y1="1.016" x2="-2.286" y2="1.524" layer="51"/>
-<rectangle x1="-0.254" y1="1.016" x2="0.254" y2="1.524" layer="51"/>
-<rectangle x1="-0.254" y1="-1.524" x2="0.254" y2="-1.016" layer="51"/>
-<rectangle x1="2.286" y1="1.016" x2="2.794" y2="1.524" layer="51"/>
-<rectangle x1="2.286" y1="-1.524" x2="2.794" y2="-1.016" layer="51"/>
-</package>
-<package name="2X3_OFFSET">
-<wire x1="-1.27" y1="-0.635" x2="-1.27" y2="3.175" width="0.2032" layer="21"/>
-<wire x1="1.27" y1="3.175" x2="1.27" y2="-0.635" width="0.2032" layer="21"/>
-<wire x1="3.81" y1="3.175" x2="3.81" y2="-0.635" width="0.2032" layer="21"/>
-<wire x1="6.35" y1="3.175" x2="6.35" y2="-0.635" width="0.2032" layer="21"/>
-<wire x1="0.635" y1="-3.51" x2="-0.635" y2="-3.51" width="0.2032" layer="21"/>
-<pad name="1" x="0" y="0" drill="1.016" diameter="1.8796" shape="offset" rot="R270"/>
-<pad name="2" x="0" y="2.54" drill="1.016" diameter="1.8796" shape="offset" rot="R90"/>
-<pad name="3" x="2.54" y="0" drill="1.016" diameter="1.8796" shape="offset" rot="R270"/>
-<pad name="4" x="2.54" y="2.54" drill="1.016" diameter="1.8796" shape="offset" rot="R90"/>
-<pad name="5" x="5.08" y="0" drill="1.016" diameter="1.8796" shape="offset" rot="R270"/>
-<pad name="6" x="5.08" y="2.54" drill="1.016" diameter="1.8796" shape="offset" rot="R90"/>
-<text x="-1.905" y="-1.27" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
-<text x="8.255" y="-1.905" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
-<rectangle x1="-0.254" y1="-0.254" x2="0.254" y2="0.254" layer="51"/>
-<rectangle x1="-0.254" y1="2.286" x2="0.254" y2="2.794" layer="51"/>
-<rectangle x1="2.286" y1="2.286" x2="2.794" y2="2.794" layer="51"/>
-<rectangle x1="2.286" y1="-0.254" x2="2.794" y2="0.254" layer="51"/>
-<rectangle x1="4.826" y1="2.286" x2="5.334" y2="2.794" layer="51"/>
-<rectangle x1="4.826" y1="-0.254" x2="5.334" y2="0.254" layer="51"/>
-</package>
 <package name="INDUCTOR-1206">
 <wire x1="-1.778" y1="2.032" x2="-3.81" y2="2.032" width="0.127" layer="21"/>
 <wire x1="-3.81" y1="2.032" x2="-3.81" y2="-2.032" width="0.127" layer="21"/>
@@ -14544,26 +14445,6 @@ chip</description>
 <wire x1="-1.905" y1="0" x2="1.905" y2="0" width="0.254" layer="94"/>
 <text x="-2.54" y="-2.54" size="1.778" layer="96">&gt;VALUE</text>
 <pin name="GND" x="0" y="2.54" visible="off" length="short" direction="sup" rot="R270"/>
-</symbol>
-<symbol name="AVR_SPI_PROGRAMMER_6">
-<wire x1="-5.08" y1="-5.08" x2="7.62" y2="-5.08" width="0.4064" layer="94"/>
-<wire x1="7.62" y1="-5.08" x2="7.62" y2="5.08" width="0.4064" layer="94"/>
-<wire x1="7.62" y1="5.08" x2="-5.08" y2="5.08" width="0.4064" layer="94"/>
-<wire x1="-5.08" y1="5.08" x2="-5.08" y2="-5.08" width="0.4064" layer="94"/>
-<text x="-4.318" y="5.842" size="1.778" layer="95">&gt;NAME</text>
-<text x="-4.064" y="-7.62" size="1.778" layer="96">&gt;VALUE</text>
-<text x="8.89" y="0.635" size="1.27" layer="94">MOSI</text>
-<text x="-11.938" y="-2.032" size="1.27" layer="94">RESET</text>
-<text x="-11.938" y="0.508" size="1.27" layer="94">SCK</text>
-<text x="-11.938" y="3.302" size="1.27" layer="94">MISO</text>
-<text x="8.89" y="3.048" size="1.27" layer="94">+5</text>
-<text x="8.89" y="-2.032" size="1.27" layer="94">GND</text>
-<pin name="1" x="-7.62" y="2.54" visible="pad" direction="pas" function="dot"/>
-<pin name="2" x="10.16" y="2.54" visible="pad" direction="pas" function="dot" rot="R180"/>
-<pin name="3" x="-7.62" y="0" visible="pad" direction="pas" function="dot"/>
-<pin name="4" x="10.16" y="0" visible="pad" direction="pas" function="dot" rot="R180"/>
-<pin name="5" x="-7.62" y="-2.54" visible="pad" direction="pas" function="dot"/>
-<pin name="6" x="10.16" y="-2.54" visible="pad" direction="pas" function="dot" rot="R180"/>
 </symbol>
 <symbol name="INDUCTOR">
 <wire x1="0" y1="5.08" x2="1.27" y2="3.81" width="0.254" layer="94" curve="-90" cap="flat"/>
@@ -18190,54 +18071,6 @@ chip</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="AVR_SPI_PRG_6" prefix="J">
-<description>&lt;b&gt;AVR ISP 6 Pin&lt;/b&gt;
-This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508</description>
-<gates>
-<gate name="G$1" symbol="AVR_SPI_PROGRAMMER_6" x="0" y="0"/>
-</gates>
-<devices>
-<device name="PTH" package="2X3">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-<connect gate="G$1" pin="4" pad="4"/>
-<connect gate="G$1" pin="5" pad="5"/>
-<connect gate="G$1" pin="6" pad="6"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="NS" package="2X3-NS">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-<connect gate="G$1" pin="4" pad="4"/>
-<connect gate="G$1" pin="5" pad="5"/>
-<connect gate="G$1" pin="6" pad="6"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="OFFSET_PADS" package="2X3_OFFSET">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-<connect gate="G$1" pin="4" pad="4"/>
-<connect gate="G$1" pin="5" pad="5"/>
-<connect gate="G$1" pin="6" pad="6"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
 <deviceset name="INDUCTOR" uservalue="yes">
 <description>&lt;b&gt;Inductors&lt;/b&gt;
 Basic Inductor/Choke - 0603 and 1206. Footprints are not proven and vary greatly between part numbers.</description>
@@ -19689,6 +19522,298 @@ chip</description>
 <rectangle x1="-2.2" y1="-1.6" x2="-1.1" y2="1.6" layer="51"/>
 <rectangle x1="1.1" y1="-1.6" x2="2.2" y2="1.6" layer="51"/>
 </package>
+<package name="1X02">
+<wire x1="-0.635" y1="1.27" x2="0.635" y2="1.27" width="0.2032" layer="21"/>
+<wire x1="0.635" y1="1.27" x2="1.27" y2="0.635" width="0.2032" layer="21"/>
+<wire x1="1.27" y1="-0.635" x2="0.635" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="1.27" y1="0.635" x2="1.905" y2="1.27" width="0.2032" layer="21"/>
+<wire x1="1.905" y1="1.27" x2="3.175" y2="1.27" width="0.2032" layer="21"/>
+<wire x1="3.175" y1="1.27" x2="3.81" y2="0.635" width="0.2032" layer="21"/>
+<wire x1="3.81" y1="-0.635" x2="3.175" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="3.175" y1="-1.27" x2="1.905" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="1.905" y1="-1.27" x2="1.27" y2="-0.635" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="0.635" x2="-1.27" y2="-0.635" width="0.2032" layer="21"/>
+<wire x1="-0.635" y1="1.27" x2="-1.27" y2="0.635" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="-0.635" x2="-0.635" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="0.635" y1="-1.27" x2="-0.635" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="3.81" y1="0.635" x2="3.81" y2="-0.635" width="0.2032" layer="21"/>
+<pad name="1" x="0" y="0" drill="1.016" rot="R90"/>
+<pad name="2" x="2.54" y="0" drill="1.016" rot="R90"/>
+<text x="-1.3462" y="1.8288" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-1.27" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="2.286" y1="-0.254" x2="2.794" y2="0.254" layer="51"/>
+<rectangle x1="-0.254" y1="-0.254" x2="0.254" y2="0.254" layer="51"/>
+</package>
+<package name="MOLEX-1X2">
+<wire x1="-1.27" y1="3.048" x2="-1.27" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="3.81" y1="3.048" x2="3.81" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="3.81" y1="3.048" x2="-1.27" y2="3.048" width="0.127" layer="21"/>
+<wire x1="3.81" y1="-2.54" x2="2.54" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="2.54" y1="-2.54" x2="0" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="0" y1="-2.54" x2="-1.27" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="0" y1="-2.54" x2="0" y2="-1.27" width="0.127" layer="21"/>
+<wire x1="0" y1="-1.27" x2="2.54" y2="-1.27" width="0.127" layer="21"/>
+<wire x1="2.54" y1="-1.27" x2="2.54" y2="-2.54" width="0.127" layer="21"/>
+<pad name="1" x="0" y="0" drill="1.016" shape="square"/>
+<pad name="2" x="2.54" y="0" drill="1.016"/>
+</package>
+<package name="SCREWTERMINAL-3.5MM-2">
+<wire x1="-1.75" y1="3.4" x2="5.25" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="5.25" y1="3.4" x2="5.25" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="5.25" y1="-2.8" x2="5.25" y2="-3.6" width="0.2032" layer="21"/>
+<wire x1="5.25" y1="-3.6" x2="-1.75" y2="-3.6" width="0.2032" layer="21"/>
+<wire x1="-1.75" y1="-3.6" x2="-1.75" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="-1.75" y1="-2.8" x2="-1.75" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="5.25" y1="-2.8" x2="-1.75" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="-1.75" y1="-1.35" x2="-2.15" y2="-1.35" width="0.2032" layer="51"/>
+<wire x1="-2.15" y1="-1.35" x2="-2.15" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="-2.15" y1="-2.35" x2="-1.75" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="5.25" y1="3.15" x2="5.65" y2="3.15" width="0.2032" layer="51"/>
+<wire x1="5.65" y1="3.15" x2="5.65" y2="2.15" width="0.2032" layer="51"/>
+<wire x1="5.65" y1="2.15" x2="5.25" y2="2.15" width="0.2032" layer="51"/>
+<circle x="2" y="3" radius="0.2828" width="0.127" layer="51"/>
+<pad name="1" x="0" y="0" drill="1.2" shape="square"/>
+<pad name="2" x="3.5" y="0" drill="1.2"/>
+<text x="-1.27" y="2.54" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-1.27" y="1.27" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
+<package name="S2B-PH">
+<description>2mm SMD side-entry connector. tDocu layer indicates the actual physical plastic housing. +/- indicate SparkFun standard batteries and wiring.</description>
+<wire x1="-4" y1="3" x2="4" y2="3" width="0.2032" layer="51"/>
+<wire x1="4" y1="3" x2="4" y2="-4.5" width="0.2032" layer="51"/>
+<wire x1="-4" y1="-4.5" x2="-4" y2="3" width="0.2032" layer="51"/>
+<wire x1="3.2" y1="-2" x2="-3.2" y2="-2" width="0.2032" layer="51"/>
+<wire x1="-3.2" y1="-2" x2="-3.2" y2="-4.5" width="0.2032" layer="51"/>
+<wire x1="-3.2" y1="-4.5" x2="-4" y2="-4.5" width="0.2032" layer="51"/>
+<wire x1="4" y1="-4.5" x2="3.2" y2="-4.5" width="0.2032" layer="51"/>
+<wire x1="3.2" y1="-4.5" x2="3.2" y2="-2" width="0.2032" layer="51"/>
+<smd name="1" x="-1" y="-3.7" dx="1" dy="4.6" layer="1"/>
+<smd name="2" x="1" y="-3.7" dx="1" dy="4.6" layer="1"/>
+<smd name="NC1" x="-3.4" y="1.5" dx="3.4" dy="1.6" layer="1" rot="R90"/>
+<smd name="NC2" x="3.4" y="1.5" dx="3.4" dy="1.6" layer="1" rot="R90"/>
+<text x="-1.27" y="1.27" size="0.4064" layer="25">&gt;Name</text>
+<text x="-1.27" y="0" size="0.4064" layer="27">&gt;Value</text>
+<text x="2.159" y="-4.445" size="1.27" layer="51">+</text>
+<text x="-2.921" y="-4.445" size="1.27" layer="51">-</text>
+</package>
+<package name="1X02_BIG">
+<wire x1="-1.27" y1="1.27" x2="-1.27" y2="-1.27" width="0.127" layer="21"/>
+<wire x1="-1.27" y1="-1.27" x2="5.08" y2="-1.27" width="0.127" layer="21"/>
+<wire x1="5.08" y1="-1.27" x2="5.08" y2="1.27" width="0.127" layer="21"/>
+<wire x1="5.08" y1="1.27" x2="-1.27" y2="1.27" width="0.127" layer="21"/>
+<pad name="P$1" x="0" y="0" drill="1.0668"/>
+<pad name="P$2" x="3.81" y="0" drill="1.0668"/>
+</package>
+<package name="S2B-PH-VERTICAL">
+<wire x1="-4.1" y1="2.97" x2="4.2" y2="2.97" width="0.2032" layer="51"/>
+<wire x1="4.2" y1="2.97" x2="4.2" y2="-2.13" width="0.2032" layer="51"/>
+<wire x1="4.2" y1="-2.13" x2="-4.1" y2="-2.13" width="0.2032" layer="51"/>
+<wire x1="-4.1" y1="-2.13" x2="-4.1" y2="2.97" width="0.2032" layer="51"/>
+<wire x1="-4.1" y1="3" x2="4.2" y2="3" width="0.2032" layer="21"/>
+<wire x1="4.2" y1="3" x2="4.2" y2="2.3" width="0.2032" layer="21"/>
+<wire x1="-4.1" y1="3" x2="-4.1" y2="2.3" width="0.2032" layer="21"/>
+<wire x1="2" y1="-2.1" x2="4.2" y2="-2.1" width="0.2032" layer="21"/>
+<wire x1="4.2" y1="-2.1" x2="4.2" y2="-1.7" width="0.2032" layer="21"/>
+<wire x1="-2" y1="-2.1" x2="-4.1" y2="-2.1" width="0.2032" layer="21"/>
+<wire x1="-4.1" y1="-2.1" x2="-4.1" y2="-1.8" width="0.2032" layer="21"/>
+<smd name="P$1" x="-3.4" y="0.27" dx="3" dy="1.6" layer="1" rot="R90"/>
+<smd name="P$2" x="3.4" y="0.27" dx="3" dy="1.6" layer="1" rot="R90"/>
+<smd name="VCC" x="-1" y="-2" dx="1" dy="5.5" layer="1"/>
+<smd name="GND" x="1" y="-2" dx="1" dy="5.5" layer="1"/>
+<text x="2.54" y="-5.08" size="1.27" layer="25">&gt;Name</text>
+<text x="2.24" y="3.48" size="1.27" layer="27">&gt;Value</text>
+</package>
+<package name="R_SW_TH">
+<wire x1="-1.651" y1="19.2532" x2="-1.651" y2="-1.3716" width="0.2032" layer="21"/>
+<wire x1="-1.651" y1="-1.3716" x2="-1.651" y2="-2.2352" width="0.2032" layer="21"/>
+<wire x1="-1.651" y1="19.2532" x2="13.589" y2="19.2532" width="0.2032" layer="21"/>
+<wire x1="13.589" y1="19.2532" x2="13.589" y2="-2.2352" width="0.2032" layer="21"/>
+<wire x1="13.589" y1="-2.2352" x2="-1.651" y2="-2.2352" width="0.2032" layer="21"/>
+<pad name="P$1" x="0" y="0" drill="1.6002"/>
+<pad name="P$2" x="0" y="16.9926" drill="1.6002"/>
+<pad name="P$3" x="12.0904" y="15.494" drill="1.6002"/>
+<pad name="P$4" x="12.0904" y="8.4582" drill="1.6002"/>
+</package>
+<package name="SCREWTERMINAL-5MM-2">
+<wire x1="-3.1" y1="4.2" x2="8.1" y2="4.2" width="0.2032" layer="21"/>
+<wire x1="8.1" y1="4.2" x2="8.1" y2="-2.3" width="0.2032" layer="21"/>
+<wire x1="8.1" y1="-2.3" x2="8.1" y2="-3.3" width="0.2032" layer="21"/>
+<wire x1="8.1" y1="-3.3" x2="-3.1" y2="-3.3" width="0.2032" layer="21"/>
+<wire x1="-3.1" y1="-3.3" x2="-3.1" y2="-2.3" width="0.2032" layer="21"/>
+<wire x1="-3.1" y1="-2.3" x2="-3.1" y2="4.2" width="0.2032" layer="21"/>
+<wire x1="8.1" y1="-2.3" x2="-3.1" y2="-2.3" width="0.2032" layer="21"/>
+<wire x1="-3.1" y1="-1.35" x2="-3.7" y2="-1.35" width="0.2032" layer="51"/>
+<wire x1="-3.7" y1="-1.35" x2="-3.7" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="-3.7" y1="-2.35" x2="-3.1" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="8.1" y1="4" x2="8.7" y2="4" width="0.2032" layer="51"/>
+<wire x1="8.7" y1="4" x2="8.7" y2="3" width="0.2032" layer="51"/>
+<wire x1="8.7" y1="3" x2="8.1" y2="3" width="0.2032" layer="51"/>
+<circle x="2.5" y="3.7" radius="0.2828" width="0.127" layer="51"/>
+<pad name="1" x="0" y="0" drill="1.3" shape="square"/>
+<pad name="2" x="5" y="0" drill="1.3"/>
+<text x="-1.27" y="2.54" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-1.27" y="1.27" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
+<package name="1X02_LOCK">
+<wire x1="-0.635" y1="1.27" x2="0.635" y2="1.27" width="0.2032" layer="21"/>
+<wire x1="0.635" y1="1.27" x2="1.27" y2="0.635" width="0.2032" layer="21"/>
+<wire x1="1.27" y1="-0.635" x2="0.635" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="1.27" y1="0.635" x2="1.905" y2="1.27" width="0.2032" layer="21"/>
+<wire x1="1.905" y1="1.27" x2="3.175" y2="1.27" width="0.2032" layer="21"/>
+<wire x1="3.175" y1="1.27" x2="3.81" y2="0.635" width="0.2032" layer="21"/>
+<wire x1="3.81" y1="-0.635" x2="3.175" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="3.175" y1="-1.27" x2="1.905" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="1.905" y1="-1.27" x2="1.27" y2="-0.635" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="0.635" x2="-1.27" y2="-0.635" width="0.2032" layer="21"/>
+<wire x1="-0.635" y1="1.27" x2="-1.27" y2="0.635" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="-0.635" x2="-0.635" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="0.635" y1="-1.27" x2="-0.635" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="3.81" y1="0.635" x2="3.81" y2="-0.635" width="0.2032" layer="21"/>
+<pad name="1" x="-0.1778" y="0" drill="1.016" rot="R90"/>
+<pad name="2" x="2.7178" y="0" drill="1.016" rot="R90"/>
+<text x="-1.3462" y="1.8288" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-1.27" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-0.2921" y1="-0.2921" x2="0.2921" y2="0.2921" layer="51"/>
+<rectangle x1="2.2479" y1="-0.2921" x2="2.8321" y2="0.2921" layer="51"/>
+</package>
+<package name="MOLEX-1X2_LOCK">
+<wire x1="-1.27" y1="3.048" x2="-1.27" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="3.81" y1="3.048" x2="3.81" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="3.81" y1="3.048" x2="-1.27" y2="3.048" width="0.127" layer="21"/>
+<wire x1="3.81" y1="-2.54" x2="2.54" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="2.54" y1="-2.54" x2="0" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="0" y1="-2.54" x2="-1.27" y2="-2.54" width="0.127" layer="21"/>
+<wire x1="0" y1="-2.54" x2="0" y2="-1.27" width="0.127" layer="21"/>
+<wire x1="0" y1="-1.27" x2="2.54" y2="-1.27" width="0.127" layer="21"/>
+<wire x1="2.54" y1="-1.27" x2="2.54" y2="-2.54" width="0.127" layer="21"/>
+<pad name="1" x="-0.127" y="0" drill="1.016" shape="square"/>
+<pad name="2" x="2.667" y="0" drill="1.016"/>
+<rectangle x1="-0.2921" y1="-0.2921" x2="0.2921" y2="0.2921" layer="51"/>
+<rectangle x1="2.2479" y1="-0.2921" x2="2.8321" y2="0.2921" layer="51"/>
+</package>
+<package name="1X02_LOCK_LONGPADS">
+<description>This footprint was designed to help hold the alignment of a through-hole component (i.e.  6-pin header) while soldering it into place.  
+You may notice that each hole has been shifted either up or down by 0.005 of an inch from it's more standard position (which is a perfectly straight line).  
+This slight alteration caused the pins (the squares in the middle) to touch the edges of the holes.  Because they are alternating, it causes a "brace" 
+to hold the component in place.  0.005 has proven to be the perfect amount of "off-center" position when using our standard breakaway headers.
+Although looks a little odd when you look at the bare footprint, once you have a header in there, the alteration is very hard to notice.  Also,
+if you push a header all the way into place, it is covered up entirely on the bottom side.  This idea of altering the position of holes to aid alignment 
+will be further integrated into the Sparkfun Library for other footprints.  It can help hold any component with 3 or more connection pins.</description>
+<wire x1="1.651" y1="0" x2="0.889" y2="0" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="0" x2="-1.016" y2="0" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="0" x2="-1.27" y2="0.9906" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="0.9906" x2="-0.9906" y2="1.27" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="0" x2="-1.27" y2="-0.9906" width="0.2032" layer="21"/>
+<wire x1="-1.27" y1="-0.9906" x2="-0.9906" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="3.81" y1="0" x2="3.556" y2="0" width="0.2032" layer="21"/>
+<wire x1="3.81" y1="0" x2="3.81" y2="-0.9906" width="0.2032" layer="21"/>
+<wire x1="3.81" y1="-0.9906" x2="3.5306" y2="-1.27" width="0.2032" layer="21"/>
+<wire x1="3.81" y1="0" x2="3.81" y2="0.9906" width="0.2032" layer="21"/>
+<wire x1="3.81" y1="0.9906" x2="3.5306" y2="1.27" width="0.2032" layer="21"/>
+<pad name="1" x="-0.127" y="0" drill="1.016" shape="long" rot="R90"/>
+<pad name="2" x="2.667" y="0" drill="1.016" shape="long" rot="R90"/>
+<text x="-1.27" y="1.778" size="1.27" layer="25" font="vector">&gt;NAME</text>
+<text x="-1.27" y="-3.302" size="1.27" layer="27" font="vector">&gt;VALUE</text>
+<rectangle x1="-0.2921" y1="-0.2921" x2="0.2921" y2="0.2921" layer="51"/>
+<rectangle x1="2.2479" y1="-0.2921" x2="2.8321" y2="0.2921" layer="51"/>
+</package>
+<package name="SCREWTERMINAL-3.5MM-2_LOCK">
+<wire x1="-1.75" y1="3.4" x2="5.25" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="5.25" y1="3.4" x2="5.25" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="5.25" y1="-2.8" x2="5.25" y2="-3.6" width="0.2032" layer="21"/>
+<wire x1="5.25" y1="-3.6" x2="-1.75" y2="-3.6" width="0.2032" layer="21"/>
+<wire x1="-1.75" y1="-3.6" x2="-1.75" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="-1.75" y1="-2.8" x2="-1.75" y2="3.4" width="0.2032" layer="21"/>
+<wire x1="5.25" y1="-2.8" x2="-1.75" y2="-2.8" width="0.2032" layer="21"/>
+<wire x1="-1.75" y1="-1.35" x2="-2.15" y2="-1.35" width="0.2032" layer="51"/>
+<wire x1="-2.15" y1="-1.35" x2="-2.15" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="-2.15" y1="-2.35" x2="-1.75" y2="-2.35" width="0.2032" layer="51"/>
+<wire x1="5.25" y1="3.15" x2="5.65" y2="3.15" width="0.2032" layer="51"/>
+<wire x1="5.65" y1="3.15" x2="5.65" y2="2.15" width="0.2032" layer="51"/>
+<wire x1="5.65" y1="2.15" x2="5.25" y2="2.15" width="0.2032" layer="51"/>
+<circle x="2" y="3" radius="0.2828" width="0.127" layer="51"/>
+<circle x="0" y="0" radius="0.4318" width="0.0254" layer="51"/>
+<circle x="3.5" y="0" radius="0.4318" width="0.0254" layer="51"/>
+<pad name="1" x="-0.1778" y="0" drill="1.2" shape="square"/>
+<pad name="2" x="3.6778" y="0" drill="1.2"/>
+<text x="-1.27" y="2.54" size="0.4064" layer="25">&gt;NAME</text>
+<text x="-1.27" y="1.27" size="0.4064" layer="27">&gt;VALUE</text>
+</package>
+<package name="2X03">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<wire x1="-3.81" y1="-1.905" x2="-3.175" y2="-2.54" width="0.1524" layer="21"/>
+<wire x1="-1.905" y1="-2.54" x2="-1.27" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="-1.905" x2="-0.635" y2="-2.54" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="-2.54" x2="1.27" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-3.81" y1="-1.905" x2="-3.81" y2="1.905" width="0.1524" layer="21"/>
+<wire x1="-3.81" y1="1.905" x2="-3.175" y2="2.54" width="0.1524" layer="21"/>
+<wire x1="-3.175" y1="2.54" x2="-1.905" y2="2.54" width="0.1524" layer="21"/>
+<wire x1="-1.905" y1="2.54" x2="-1.27" y2="1.905" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="1.905" x2="-0.635" y2="2.54" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="2.54" x2="0.635" y2="2.54" width="0.1524" layer="21"/>
+<wire x1="0.635" y1="2.54" x2="1.27" y2="1.905" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="1.905" x2="-1.27" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="1.27" y1="1.905" x2="1.27" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-0.635" y1="-2.54" x2="0.635" y2="-2.54" width="0.1524" layer="21"/>
+<wire x1="-3.175" y1="-2.54" x2="-1.905" y2="-2.54" width="0.1524" layer="21"/>
+<wire x1="1.27" y1="-1.905" x2="1.905" y2="-2.54" width="0.1524" layer="21"/>
+<wire x1="3.175" y1="-2.54" x2="3.81" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="1.27" y1="1.905" x2="1.905" y2="2.54" width="0.1524" layer="21"/>
+<wire x1="1.905" y1="2.54" x2="3.175" y2="2.54" width="0.1524" layer="21"/>
+<wire x1="3.175" y1="2.54" x2="3.81" y2="1.905" width="0.1524" layer="21"/>
+<wire x1="3.81" y1="1.905" x2="3.81" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="1.905" y1="-2.54" x2="3.175" y2="-2.54" width="0.1524" layer="21"/>
+<pad name="1" x="-2.54" y="-1.27" drill="1.016" shape="octagon"/>
+<pad name="2" x="-2.54" y="1.27" drill="1.016" shape="octagon"/>
+<pad name="3" x="0" y="-1.27" drill="1.016" shape="octagon"/>
+<pad name="4" x="0" y="1.27" drill="1.016" shape="octagon"/>
+<pad name="5" x="2.54" y="-1.27" drill="1.016" shape="octagon"/>
+<pad name="6" x="2.54" y="1.27" drill="1.016" shape="octagon"/>
+<text x="-3.81" y="3.175" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-3.81" y="-4.445" size="1.27" layer="27">&gt;VALUE</text>
+<rectangle x1="-2.794" y1="-1.524" x2="-2.286" y2="-1.016" layer="51"/>
+<rectangle x1="-2.794" y1="1.016" x2="-2.286" y2="1.524" layer="51"/>
+<rectangle x1="-0.254" y1="1.016" x2="0.254" y2="1.524" layer="51"/>
+<rectangle x1="-0.254" y1="-1.524" x2="0.254" y2="-1.016" layer="51"/>
+<rectangle x1="2.286" y1="1.016" x2="2.794" y2="1.524" layer="51"/>
+<rectangle x1="2.286" y1="-1.524" x2="2.794" y2="-1.016" layer="51"/>
+</package>
+<package name="2X03/90">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<wire x1="-3.81" y1="-1.905" x2="-1.27" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="-1.905" x2="-1.27" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="0.635" x2="-3.81" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="-3.81" y1="0.635" x2="-3.81" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="-2.54" y1="6.985" x2="-2.54" y2="1.27" width="0.762" layer="21"/>
+<wire x1="-1.27" y1="-1.905" x2="1.27" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="1.27" y1="-1.905" x2="1.27" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="1.27" y1="0.635" x2="-1.27" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="0" y1="6.985" x2="0" y2="1.27" width="0.762" layer="21"/>
+<wire x1="1.27" y1="-1.905" x2="3.81" y2="-1.905" width="0.1524" layer="21"/>
+<wire x1="3.81" y1="-1.905" x2="3.81" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="3.81" y1="0.635" x2="1.27" y2="0.635" width="0.1524" layer="21"/>
+<wire x1="2.54" y1="6.985" x2="2.54" y2="1.27" width="0.762" layer="21"/>
+<pad name="2" x="-2.54" y="-3.81" drill="1.016" shape="octagon"/>
+<pad name="4" x="0" y="-3.81" drill="1.016" shape="octagon"/>
+<pad name="6" x="2.54" y="-3.81" drill="1.016" shape="octagon"/>
+<pad name="1" x="-2.54" y="-6.35" drill="1.016" shape="octagon"/>
+<pad name="3" x="0" y="-6.35" drill="1.016" shape="octagon"/>
+<pad name="5" x="2.54" y="-6.35" drill="1.016" shape="octagon"/>
+<text x="-4.445" y="-3.81" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
+<text x="5.715" y="-3.81" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
+<rectangle x1="-2.921" y1="0.635" x2="-2.159" y2="1.143" layer="21"/>
+<rectangle x1="-0.381" y1="0.635" x2="0.381" y2="1.143" layer="21"/>
+<rectangle x1="2.159" y1="0.635" x2="2.921" y2="1.143" layer="21"/>
+<rectangle x1="-2.921" y1="-2.921" x2="-2.159" y2="-1.905" layer="21"/>
+<rectangle x1="-0.381" y1="-2.921" x2="0.381" y2="-1.905" layer="21"/>
+<rectangle x1="-2.921" y1="-5.461" x2="-2.159" y2="-4.699" layer="21"/>
+<rectangle x1="-2.921" y1="-4.699" x2="-2.159" y2="-2.921" layer="51"/>
+<rectangle x1="-0.381" y1="-4.699" x2="0.381" y2="-2.921" layer="51"/>
+<rectangle x1="-0.381" y1="-5.461" x2="0.381" y2="-4.699" layer="21"/>
+<rectangle x1="2.159" y1="-2.921" x2="2.921" y2="-1.905" layer="21"/>
+<rectangle x1="2.159" y1="-5.461" x2="2.921" y2="-4.699" layer="21"/>
+<rectangle x1="2.159" y1="-4.699" x2="2.921" y2="-2.921" layer="51"/>
+</package>
 </packages>
 <symbols>
 <symbol name="USB-FT">
@@ -19729,6 +19854,32 @@ chip</description>
 <rectangle x1="-2.032" y1="1.524" x2="2.032" y2="2.032" layer="94"/>
 <pin name="1" x="0" y="5.08" visible="off" length="short" direction="pas" swaplevel="1" rot="R270"/>
 <pin name="2" x="0" y="-2.54" visible="off" length="short" direction="pas" swaplevel="1" rot="R90"/>
+</symbol>
+<symbol name="M02">
+<wire x1="3.81" y1="-2.54" x2="-2.54" y2="-2.54" width="0.4064" layer="94"/>
+<wire x1="1.27" y1="2.54" x2="2.54" y2="2.54" width="0.6096" layer="94"/>
+<wire x1="1.27" y1="0" x2="2.54" y2="0" width="0.6096" layer="94"/>
+<wire x1="-2.54" y1="5.08" x2="-2.54" y2="-2.54" width="0.4064" layer="94"/>
+<wire x1="3.81" y1="-2.54" x2="3.81" y2="5.08" width="0.4064" layer="94"/>
+<wire x1="-2.54" y1="5.08" x2="3.81" y2="5.08" width="0.4064" layer="94"/>
+<text x="-2.54" y="-5.08" size="1.778" layer="96">&gt;VALUE</text>
+<text x="-2.54" y="5.842" size="1.778" layer="95">&gt;NAME</text>
+<pin name="1" x="7.62" y="0" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="2" x="7.62" y="2.54" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
+</symbol>
+<symbol name="PINH2X3">
+<wire x1="-6.35" y1="-5.08" x2="8.89" y2="-5.08" width="0.4064" layer="94"/>
+<wire x1="8.89" y1="-5.08" x2="8.89" y2="5.08" width="0.4064" layer="94"/>
+<wire x1="8.89" y1="5.08" x2="-6.35" y2="5.08" width="0.4064" layer="94"/>
+<wire x1="-6.35" y1="5.08" x2="-6.35" y2="-5.08" width="0.4064" layer="94"/>
+<text x="-6.35" y="5.715" size="1.778" layer="95">&gt;NAME</text>
+<text x="-6.35" y="-7.62" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="1" x="-2.54" y="2.54" visible="pad" length="short" direction="pas" function="dot"/>
+<pin name="2" x="5.08" y="2.54" visible="pad" length="short" direction="pas" function="dot" rot="R180"/>
+<pin name="3" x="-2.54" y="0" visible="pad" length="short" direction="pas" function="dot"/>
+<pin name="4" x="5.08" y="0" visible="pad" length="short" direction="pas" function="dot" rot="R180"/>
+<pin name="5" x="-2.54" y="-2.54" visible="pad" length="short" direction="pas" function="dot"/>
+<pin name="6" x="5.08" y="-2.54" visible="pad" length="short" direction="pas" function="dot" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -19928,6 +20079,157 @@ Standard 0603 ceramic capacitor, and 0.1" leaded capacitor.</description>
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="M02" prefix="JP" uservalue="yes">
+<description>&lt;b&gt;Header 2&lt;/b&gt;
+Standard 2-pin 0.1" header. Use with straight break away headers (SKU : PRT-00116), right angle break away headers (PRT-00553), swiss pins (PRT-00743), machine pins (PRT-00117), and female headers (PRT-00115). Molex polarized connector foot print use with SKU : PRT-08233 with associated crimp pins and housings.</description>
+<gates>
+<gate name="G$1" symbol="M02" x="-2.54" y="0"/>
+</gates>
+<devices>
+<device name="PTH" package="1X02">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="POLAR" package="MOLEX-1X2">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="3.5MM" package="SCREWTERMINAL-3.5MM-2">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="-JST-2MM-SMT" package="S2B-PH">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="PTH2" package="1X02_BIG">
+<connects>
+<connect gate="G$1" pin="1" pad="P$1"/>
+<connect gate="G$1" pin="2" pad="P$2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="4UCON-15767" package="S2B-PH-VERTICAL">
+<connects>
+<connect gate="G$1" pin="1" pad="GND"/>
+<connect gate="G$1" pin="2" pad="VCC"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="ROCKER" package="R_SW_TH">
+<connects>
+<connect gate="G$1" pin="1" pad="P$3"/>
+<connect gate="G$1" pin="2" pad="P$4"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="5MM" package="SCREWTERMINAL-5MM-2">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="LOCK" package="1X02_LOCK">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="POLAR_LOCK" package="MOLEX-1X2_LOCK">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="LOCK_LONGPADS" package="1X02_LOCK_LONGPADS">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="3.5MM_LOCK" package="SCREWTERMINAL-3.5MM-2_LOCK">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="PINHD-2X3" prefix="JP" uservalue="yes">
+<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
+<gates>
+<gate name="A" symbol="PINH2X3" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="2X03">
+<connects>
+<connect gate="A" pin="1" pad="1"/>
+<connect gate="A" pin="2" pad="2"/>
+<connect gate="A" pin="3" pad="3"/>
+<connect gate="A" pin="4" pad="4"/>
+<connect gate="A" pin="5" pad="5"/>
+<connect gate="A" pin="6" pad="6"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="/90" package="2X03/90">
+<connects>
+<connect gate="A" pin="1" pad="1"/>
+<connect gate="A" pin="2" pad="2"/>
+<connect gate="A" pin="3" pad="3"/>
+<connect gate="A" pin="4" pad="4"/>
+<connect gate="A" pin="5" pad="5"/>
+<connect gate="A" pin="6" pad="6"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -21551,25 +21853,6 @@ NS Package M08A</description>
 <rectangle x1="-0.88" y1="2" x2="-0.39" y2="3.1" layer="51"/>
 <rectangle x1="-2.15" y1="2" x2="-1.66" y2="3.1" layer="51"/>
 </package>
-<package name="TC_JACK">
-<description>PCB Thermocouple Connector</description>
-<wire x1="-5.2832" y1="4.572" x2="-5.2832" y2="11.43" width="0.127" layer="21"/>
-<wire x1="1.5748" y1="4.572" x2="1.5748" y2="10.668" width="0.127" layer="21"/>
-<wire x1="-5.2832" y1="-2.032" x2="-5.2832" y2="-4.826" width="0.127" layer="51"/>
-<wire x1="-5.2832" y1="-4.826" x2="1.5748" y2="-4.826" width="0.127" layer="51"/>
-<wire x1="1.5748" y1="-4.826" x2="1.5748" y2="-2.032" width="0.127" layer="51"/>
-<wire x1="-5.2832" y1="12.7" x2="-5.2832" y2="21.082" width="0.127" layer="51"/>
-<wire x1="-5.2832" y1="21.082" x2="1.5748" y2="21.082" width="0.127" layer="51"/>
-<wire x1="1.5748" y1="21.082" x2="1.5748" y2="12.7" width="0.127" layer="51"/>
-<pad name="P$1" x="-5.2832" y="0" drill="1.778" shape="offset" rot="R90"/>
-<pad name="P$2" x="1.5748" y="0" drill="1.778" shape="offset" rot="R90"/>
-<pad name="T-" x="0" y="19.05" drill="1.778" shape="long" rot="R180"/>
-<pad name="T+" x="0" y="12.7" drill="1.778" shape="long" rot="R180"/>
-<text x="-5.08" y="12" size="1.27" layer="21">T+</text>
-<text x="-5.08" y="18.5" size="1.27" layer="21">T-</text>
-<text x="-4.445" y="21.59" size="1.27" layer="25">&gt;NAME</text>
-<text x="-4.445" y="15.24" size="1.27" layer="27">&gt;VALUE</text>
-</package>
 </packages>
 <symbols>
 <symbol name="MAX6675">
@@ -21587,18 +21870,6 @@ NS Package M08A</description>
 <pin name="SO" x="12.7" y="2.54" visible="pin" length="middle" rot="R180"/>
 <pin name="CS" x="12.7" y="0" visible="pin" length="middle" rot="R180"/>
 <pin name="SCK" x="12.7" y="-2.54" visible="pin" length="middle" rot="R180"/>
-</symbol>
-<symbol name="TC_JACK">
-<wire x1="-5.08" y1="5.08" x2="2.54" y2="5.08" width="0.254" layer="94"/>
-<wire x1="2.54" y1="5.08" x2="2.54" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="2.54" y1="-7.62" x2="-5.08" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="-5.08" y1="-7.62" x2="-5.08" y2="5.08" width="0.254" layer="94"/>
-<text x="-5.08" y="5.842" size="1.778" layer="95">&gt;NAME</text>
-<text x="-5.08" y="-10.16" size="1.778" layer="96">&gt;VALUE</text>
-<pin name="T+" x="-7.62" y="2.54" visible="pin" length="short"/>
-<pin name="T-" x="-7.62" y="0" visible="pin" length="short"/>
-<pin name="GND" x="-7.62" y="-2.54" visible="off" length="short"/>
-<pin name="GND1" x="-7.62" y="-5.08" visible="off" length="short"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -21618,25 +21889,6 @@ NS Package M08A</description>
 <connect gate="G$1" pin="T+" pad="3"/>
 <connect gate="G$1" pin="T-" pad="2"/>
 <connect gate="G$1" pin="VCC" pad="4"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="TC_JACK">
-<description>PCB Thermocouple Connector</description>
-<gates>
-<gate name="G$1" symbol="TC_JACK" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="TC_JACK">
-<connects>
-<connect gate="G$1" pin="GND" pad="P$1"/>
-<connect gate="G$1" pin="GND1" pad="P$2"/>
-<connect gate="G$1" pin="T+" pad="T+"/>
-<connect gate="G$1" pin="T-" pad="T-"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -21783,91 +22035,6 @@ DIN A4, landscape with extra doc field</description>
 <device name="" package="1,6/0,8">
 <connects>
 <connect gate="P" pin="P" pad="1"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
-<library name="pinhead">
-<packages>
-<package name="1X02">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<wire x1="-1.905" y1="1.27" x2="-0.635" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="-0.635" y1="1.27" x2="0" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="0" y1="-0.635" x2="-0.635" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-2.54" y1="0.635" x2="-2.54" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="-1.905" y1="1.27" x2="-2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-2.54" y1="-0.635" x2="-1.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="-0.635" y1="-1.27" x2="-1.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="0" y1="0.635" x2="0.635" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="1.27" x2="1.905" y2="1.27" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="1.27" x2="2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="0.635" x2="2.54" y2="-0.635" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="-0.635" x2="1.905" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="1.905" y1="-1.27" x2="0.635" y2="-1.27" width="0.1524" layer="21"/>
-<wire x1="0.635" y1="-1.27" x2="0" y2="-0.635" width="0.1524" layer="21"/>
-<pad name="1" x="-1.27" y="0" drill="0.9" diameter="1.9304" rot="R90"/>
-<pad name="2" x="1.27" y="0" drill="0.9" diameter="1.9304" rot="R90"/>
-<text x="-2.6162" y="1.8288" size="1.27" layer="25" ratio="10">&gt;NAME</text>
-<text x="-2.54" y="-3.175" size="1.27" layer="27">&gt;VALUE</text>
-</package>
-<package name="1X02/90">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<wire x1="-2.54" y1="-1.905" x2="0" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="0" y1="-1.905" x2="0" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="0" y1="0.635" x2="-2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="-2.54" y1="0.635" x2="-2.54" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="-1.27" y1="6.985" x2="-1.27" y2="1.27" width="0.762" layer="21"/>
-<wire x1="0" y1="-1.905" x2="2.54" y2="-1.905" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="-1.905" x2="2.54" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="2.54" y1="0.635" x2="0" y2="0.635" width="0.1524" layer="21"/>
-<wire x1="1.27" y1="6.985" x2="1.27" y2="1.27" width="0.762" layer="21"/>
-<pad name="1" x="-1.27" y="-3.81" drill="1.016" shape="long" rot="R90"/>
-<pad name="2" x="1.27" y="-3.81" drill="1.016" shape="long" rot="R90"/>
-<text x="-3.175" y="-3.81" size="1.27" layer="25" ratio="10" rot="R90">&gt;NAME</text>
-<text x="4.445" y="-3.81" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
-<rectangle x1="-1.651" y1="0.635" x2="-0.889" y2="1.143" layer="21"/>
-<rectangle x1="0.889" y1="0.635" x2="1.651" y2="1.143" layer="21"/>
-<rectangle x1="-1.651" y1="-2.921" x2="-0.889" y2="-1.905" layer="21"/>
-<rectangle x1="0.889" y1="-2.921" x2="1.651" y2="-1.905" layer="21"/>
-</package>
-</packages>
-<symbols>
-<symbol name="PINHD2">
-<wire x1="-6.35" y1="-2.54" x2="1.27" y2="-2.54" width="0.4064" layer="94"/>
-<wire x1="1.27" y1="-2.54" x2="1.27" y2="5.08" width="0.4064" layer="94"/>
-<wire x1="1.27" y1="5.08" x2="-6.35" y2="5.08" width="0.4064" layer="94"/>
-<wire x1="-6.35" y1="5.08" x2="-6.35" y2="-2.54" width="0.4064" layer="94"/>
-<text x="-6.35" y="5.715" size="1.778" layer="95">&gt;NAME</text>
-<text x="-6.35" y="-5.08" size="1.778" layer="96">&gt;VALUE</text>
-<pin name="1" x="-2.54" y="2.54" visible="pad" length="short" direction="pas" function="dot"/>
-<pin name="2" x="-2.54" y="0" visible="pad" length="short" direction="pas" function="dot"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="PINHD-1X2" prefix="JP" uservalue="yes">
-<description>&lt;b&gt;PIN HEADER&lt;/b&gt;</description>
-<gates>
-<gate name="G$1" symbol="PINHD2" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="1X02">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="/90" package="1X02/90">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -22048,6 +22215,23 @@ DIN A4, landscape with extra doc field</description>
 <text x="-0.8255" y="1.778" size="0.4064" layer="25">&gt;NAME</text>
 <text x="-1.016" y="-0.1905" size="0.4064" layer="27">&gt;VALUE</text>
 </package>
+<package name="PCC-SMP-V">
+<description>Omega PCC-SMP-V vertical PCB-mount minature thermocouple socket.</description>
+<wire x1="-4.0132" y1="-0.508" x2="-4.0132" y2="6.35" width="0.127" layer="21"/>
+<wire x1="2.8448" y1="-0.508" x2="2.8448" y2="5.588" width="0.127" layer="21"/>
+<wire x1="-4.0132" y1="-7.112" x2="-4.0132" y2="-9.906" width="0.127" layer="51"/>
+<wire x1="-4.0132" y1="-9.906" x2="2.8448" y2="-9.906" width="0.127" layer="51"/>
+<wire x1="2.8448" y1="-9.906" x2="2.8448" y2="-7.112" width="0.127" layer="51"/>
+<wire x1="-4.0132" y1="6.35" x2="-4.0132" y2="16.002" width="0.127" layer="51"/>
+<wire x1="-4.0132" y1="16.002" x2="2.8448" y2="16.002" width="0.127" layer="51"/>
+<wire x1="2.8448" y1="16.002" x2="2.8448" y2="5.08" width="0.127" layer="51"/>
+<pad name="P$1" x="-4.0132" y="-5.08" drill="1.778" shape="offset" rot="R90"/>
+<pad name="P$2" x="2.8448" y="-5.08" drill="1.778" shape="offset" rot="R90"/>
+<pad name="T-" x="1.27" y="13.97" drill="1.778" shape="long" rot="R180"/>
+<pad name="T+" x="1.27" y="7.62" drill="1.778" shape="long" rot="R180"/>
+<text x="-3.81" y="18.415" size="1.27" layer="25">&gt;NAME</text>
+<text x="-3.81" y="16.51" size="1.27" layer="27">&gt;VALUE</text>
+</package>
 </packages>
 <symbols>
 <symbol name="PGB102ST23">
@@ -22087,6 +22271,19 @@ DIN A4, landscape with extra doc field</description>
 <pin name="P$2" x="2.54" y="5.08" visible="off" length="point" rot="R270"/>
 <pin name="P$3" x="0" y="-5.08" visible="off" length="point" rot="R90"/>
 </symbol>
+<symbol name="THERMOCOUPLE-SOCKET">
+<description>PCB-mount thermocouple socket such as those from Omega. Two electrical pins plus two unconnected mechanical mounting pins which are tied to ground.</description>
+<wire x1="-2.54" y1="5.08" x2="5.08" y2="5.08" width="0.254" layer="94"/>
+<wire x1="5.08" y1="5.08" x2="5.08" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-2.54" x2="-2.54" y2="-2.54" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="-2.54" x2="-2.54" y2="5.08" width="0.254" layer="94"/>
+<text x="-2.54" y="10.16" size="1.27" layer="95">&gt;NAME</text>
+<text x="-2.54" y="7.62" size="1.27" layer="96">&gt;VALUE</text>
+<pin name="T+" x="-5.08" y="2.54" visible="pin" length="short"/>
+<pin name="T-" x="-5.08" y="0" visible="pin" length="short"/>
+<pin name="GND" x="-2.54" y="-5.08" visible="off" length="short" rot="R90"/>
+<text x="0" y="-5.08" size="1.27" layer="95">GND</text>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="PGB102ST23" prefix="Z">
@@ -22108,6 +22305,24 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </device>
 </devices>
 </deviceset>
+<deviceset name="PCC-SMP-V">
+<description>Omega PCC-SMP-V PCB-mount vertical minature thermocouple socket.</description>
+<gates>
+<gate name="G$1" symbol="THERMOCOUPLE-SOCKET" x="0" y="-2.54"/>
+</gates>
+<devices>
+<device name="" package="PCC-SMP-V">
+<connects>
+<connect gate="G$1" pin="GND" pad="P$1 P$2"/>
+<connect gate="G$1" pin="T+" pad="T+"/>
+<connect gate="G$1" pin="T-" pad="T-"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
 </devicesets>
 </library>
 </libraries>
@@ -22120,7 +22335,6 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </class>
 </classes>
 <parts>
-<part name="J14" library="SparkFun" deviceset="AVR_SPI_PRG_6" device="NS" value="ISP"/>
 <part name="GND25" library="supply1" deviceset="GND" device=""/>
 <part name="P+23" library="supply1" deviceset="+5V" device=""/>
 <part name="IC1" library="freetronics-jon" deviceset="ATMEL_ATMEGA8U2-MU" device="QFN" value="ATMEGA8U2"/>
@@ -22135,9 +22349,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <part name="C6" library="freetronics-master-v1" deviceset="CAP" device="0805-LARGE" value="1uF"/>
 <part name="GND30" library="SparkFun" deviceset="GND" device=""/>
 <part name="GND31" library="SparkFun" deviceset="GND" device=""/>
-<part name="J4" library="freetronics-master-v1" deviceset="USB-FT" device="" value="USB"/>
+<part name="J3" library="freetronics-master-v1" deviceset="USB-FT" device="" value="USB"/>
 <part name="L1" library="freetronics-master-v1" deviceset="INDUCTOR" device="0603" value="L1: 0603 Ferrite bead"/>
-<part name="J6" library="jumper" deviceset="SJ" device="" value="Ground"/>
+<part name="J5" library="jumper" deviceset="SJ" device="" value="Ground"/>
 <part name="GND32" library="SparkFun" deviceset="GND" device=""/>
 <part name="F1" library="EtherMega2" deviceset="PTC1812" device="" value="500 mA"/>
 <part name="P+26" library="supply1" deviceset="+5V" device=""/>
@@ -22156,7 +22370,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <part name="R9" library="rcl" deviceset="R-US_" device="R0805" value="1M"/>
 <part name="R1" library="rcl" deviceset="R-US_" device="R0805" value="10k"/>
 <part name="J1" library="con-phoenix-254" deviceset="MPT6" device="" value="X Stepper"/>
-<part name="J8" library="con-phoenix-254" deviceset="MPT6" device="" value="Z Stepper"/>
+<part name="J7" library="con-phoenix-254" deviceset="MPT6" device="" value="Z Stepper"/>
 <part name="P+35" library="supply1" deviceset="+24V" device=""/>
 <part name="R2" library="resistor" deviceset="R-US_" device="M0805" value="10k"/>
 <part name="R4" library="resistor" deviceset="R-US_" device="M0805" value="10k"/>
@@ -22166,14 +22380,14 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="P+1" library="supply1" deviceset="+5V" device=""/>
 <part name="P+41" library="supply1" deviceset="+5V" device=""/>
-<part name="J17" library="con-phoenix-254" deviceset="MPT3" device="" value="X Home"/>
-<part name="J19" library="con-phoenix-254" deviceset="MPT3" device="" value="Y Home"/>
+<part name="J16" library="con-phoenix-254" deviceset="MPT3" device="" value="X Home"/>
+<part name="J18" library="con-phoenix-254" deviceset="MPT3" device="" value="Y Home"/>
 <part name="R31" library="resistor" deviceset="R-US_" device="M0805" value="10k"/>
 <part name="R32" library="resistor" deviceset="R-US_" device="M0805" value="10k"/>
 <part name="P+36" library="supply1" deviceset="+24V" device=""/>
 <part name="P+37" library="supply1" deviceset="+5V" device=""/>
 <part name="P+38" library="supply1" deviceset="+5V" device=""/>
-<part name="J15" library="adafruit" deviceset="SDMMC" device="18650"/>
+<part name="J13" library="adafruit" deviceset="SDMMC" device="18650"/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
 <part name="+3V1" library="supply1" deviceset="+3V3" device="" value="+3.3V"/>
 <part name="IC8" library="burr-brown" deviceset="REG1117" device="" value="LD1117S33"/>
@@ -22183,7 +22397,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="GND37" library="supply1" deviceset="GND" device=""/>
 <part name="GND44" library="supply1" deviceset="GND" device=""/>
-<part name="J5" library="con-phoenix-254" deviceset="MPT6" device="" value="Y Stepper"/>
+<part name="J4" library="con-phoenix-254" deviceset="MPT6" device="" value="Y Stepper"/>
 <part name="R6" library="resistor" deviceset="R-US_" device="M0805" value="10k"/>
 <part name="R5" library="resistor" deviceset="R-US_" device="M0805" value="10k"/>
 <part name="IC2" library="Luke" deviceset="XBEE" device="" value="BEE module"/>
@@ -22219,8 +22433,8 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <part name="P+9" library="supply1" deviceset="+5V" device=""/>
 <part name="P+10" library="supply1" deviceset="+5V" device=""/>
 <part name="GND29" library="supply1" deviceset="GND" device=""/>
-<part name="J20" library="con-phoenix-254" deviceset="MPT2" device="" value="Interlocks"/>
-<part name="J21" library="con-phoenix-254" deviceset="MPT2" device="" value="Spare"/>
+<part name="J19" library="con-phoenix-254" deviceset="MPT2" device="" value="Interlocks"/>
+<part name="J20" library="con-phoenix-254" deviceset="MPT2" device="" value="Spare"/>
 <part name="R28" library="resistor" deviceset="R-US_" device="R0805" value="10k"/>
 <part name="P+12" library="supply1" deviceset="+5V" device=""/>
 <part name="IC10" library="linear" deviceset="LM393" device="D"/>
@@ -22255,15 +22469,14 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <part name="P+6" library="supply1" deviceset="+5V" device=""/>
 <part name="P+7" library="supply1" deviceset="+5V" device=""/>
 <part name="P+21" library="supply1" deviceset="+5V" device=""/>
-<part name="J10" library="con-phoenix-254" deviceset="MPT4" device="" value="Laser HV PSU"/>
+<part name="J9" library="con-phoenix-254" deviceset="MPT4" device="" value="Laser HV PSU"/>
 <part name="IC14" library="Thermocouple" deviceset="MAX6675" device=""/>
-<part name="J22" library="Thermocouple" deviceset="TC_JACK" device="" value="Omega PCC-SMP-V-K"/>
 <part name="GND55" library="supply1" deviceset="GND" device=""/>
 <part name="C19" library="rcl" deviceset="C-EU" device="C0805K" value="100nF"/>
 <part name="GND56" library="supply1" deviceset="GND" device=""/>
 <part name="R40" library="resistor" deviceset="R-US_" device="M0805" value="10k"/>
 <part name="GND57" library="SparkFun" deviceset="GND" device=""/>
-<part name="J18" library="con-phoenix-254" deviceset="MPT5" device="" value="Z Home"/>
+<part name="J17" library="con-phoenix-254" deviceset="MPT5" device="" value="Z Home"/>
 <part name="R35" library="resistor" deviceset="R-US_" device="M0805" value="10k"/>
 <part name="R39" library="resistor" deviceset="R-US_" device="M0805" value="DNP"/>
 <part name="R34" library="resistor" deviceset="R-US_" device="M0805" value="220R"/>
@@ -22299,10 +22512,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <part name="FRAME1" library="frames" deviceset="DINA4_L" device="" value="Microcontroller"/>
 <part name="FRAME6" library="frames" deviceset="DINA4_L" device="" value="Pinout documentation 1"/>
 <part name="FRAME8" library="frames" deviceset="DINA4_L" device="" value="Pinout documentation 2"/>
-<part name="J12" library="con-phoenix-254" deviceset="MPT8" device="" value="Interface"/>
-<part name="J11" library="con-wago-508" deviceset="W237-02P" device="" value="24V in"/>
+<part name="J11" library="con-phoenix-254" deviceset="MPT8" device="" value="Interface"/>
+<part name="J10" library="con-wago-508" deviceset="W237-02P" device="" value="24V in"/>
 <part name="Q1" library="SparkFun" deviceset="CRYSTAL" device="5X3" value="16 MHz"/>
-<part name="J7" library="SparkFun" deviceset="AVR_SPI_PRG_6" device="NS" value="ISP"/>
 <part name="GND15" library="supply1" deviceset="GND" device=""/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
 <part name="GND22" library="supply1" deviceset="GND" device=""/>
@@ -22327,16 +22539,14 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <part name="FRAME9" library="frames" deviceset="DINA4_L" device="" value="USB interface"/>
 <part name="FRAME10" library="frames" deviceset="DINA4_L" device="" value="SPI Peripherals"/>
 <part name="FRAME11" library="frames" deviceset="DINA4_L" device="" value="Miscellaneous"/>
-<part name="J13" library="pinhead" deviceset="PINHD-1X2" device="" value="I2C"/>
-<part name="J16" library="pinhead" deviceset="PINHD-1X2" device="" value="UART3"/>
 <part name="FRAME2" library="frames" deviceset="DINA4_L" device="" value="SPI Peripherals"/>
 <part name="FRAME4" library="frames" deviceset="DINA4_L" device="" value="SPI Peripherals"/>
 <part name="U$" library="SparkFun" deviceset="OSHW-LOGO" device="S"/>
-<part name="$0000002" library="SparkFun" deviceset="OSHW-LOGO" device="S"/>
+<part name="$1" library="SparkFun" deviceset="OSHW-LOGO" device="S"/>
 <part name="U$1" library="SparkFun" deviceset="OSHW-LOGO" device="S"/>
 <part name="U$3" library="SparkFun" deviceset="OSHW-LOGO" device="S"/>
 <part name="U$2" library="SparkFun" deviceset="OSHW-LOGO" device="S"/>
-<part name="J9" library="wirepad" deviceset="1,6/0,8" device="" value="Stepper disable"/>
+<part name="J8" library="wirepad" deviceset="1,6/0,8" device="" value="Stepper disable"/>
 <part name="GND17" library="supply1" deviceset="GND" device=""/>
 <part name="P+29" library="supply1" deviceset="+5V" device=""/>
 <part name="P+47" library="supply1" deviceset="+5V" device=""/>
@@ -22370,6 +22580,11 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <part name="GND69" library="SparkFun" deviceset="GND" device=""/>
 <part name="C10" library="rcl" deviceset="C-EU" device="C1210" value="47 uF"/>
 <part name="Z1" library="freetronics-luke" deviceset="PGB102ST23" device=""/>
+<part name="J12" library="freetronics-master-v1" deviceset="M02" device="PTH" value="I2C"/>
+<part name="J15" library="freetronics-master-v1" deviceset="M02" device="PTH" value="UART3"/>
+<part name="J14" library="freetronics-master-v1" deviceset="PINHD-2X3" device="" value="ISP"/>
+<part name="J6" library="freetronics-master-v1" deviceset="PINHD-2X3" device="" value="ISP"/>
+<part name="J21" library="freetronics-luke" deviceset="PCC-SMP-V" device="" value="Omega PCC-SMP-V-K"/>
 </parts>
 <sheets>
 <sheet>
@@ -22476,15 +22691,11 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <text x="22.86" y="322.58" size="1.27" layer="98">-</text>
 </plain>
 <instances>
-<instance part="J14" gate="G$1" x="360.68" y="247.65" smashed="yes">
-<attribute name="NAME" x="355.6" y="256.54" size="1.27" layer="95"/>
-<attribute name="VALUE" x="355.6" y="254" size="1.27" layer="96"/>
+<instance part="GND25" gate="1" x="370.84" y="236.22" smashed="yes" rot="MR0">
+<attribute name="VALUE" x="368.935" y="234.315" size="1.27" layer="96"/>
 </instance>
-<instance part="GND25" gate="1" x="373.38" y="237.49" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="371.475" y="235.585" size="1.27" layer="96"/>
-</instance>
-<instance part="P+23" gate="1" x="373.38" y="257.81" smashed="yes" rot="MR0">
-<attribute name="VALUE" x="375.92" y="256.54" size="1.27" layer="96"/>
+<instance part="P+23" gate="1" x="370.84" y="256.54" smashed="yes" rot="MR0">
+<attribute name="VALUE" x="373.38" y="255.27" size="1.27" layer="96"/>
 </instance>
 <instance part="IC1" gate="G$1" x="129.54" y="474.98" smashed="yes">
 <attribute name="NAME" x="114.3" y="510.54" size="1.27" layer="95"/>
@@ -22527,12 +22738,12 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <instance part="GND31" gate="1" x="104.14" y="414.02" smashed="yes">
 <attribute name="VALUE" x="102.235" y="411.48" size="1.27" layer="96"/>
 </instance>
-<instance part="J4" gate="G$1" x="33.02" y="452.12" smashed="yes"/>
+<instance part="J3" gate="G$1" x="33.02" y="452.12" smashed="yes"/>
 <instance part="L1" gate="G$1" x="63.5" y="431.8" smashed="yes" rot="R90">
 <attribute name="NAME" x="58.42" y="434.34" size="1.27" layer="95"/>
 <attribute name="VALUE" x="25.4" y="419.1" size="1.27" layer="96"/>
 </instance>
-<instance part="J6" gate="1" x="73.66" y="424.18" smashed="yes" rot="R270">
+<instance part="J5" gate="1" x="73.66" y="424.18" smashed="yes" rot="R270">
 <attribute name="NAME" x="63.5" y="424.18" size="1.27" layer="95"/>
 <attribute name="VALUE" x="63.5" y="421.64" size="1.27" layer="96"/>
 </instance>
@@ -22607,12 +22818,12 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <instance part="J1" gate="-6" x="294.64" y="462.28" smashed="yes" rot="R180">
 <attribute name="VALUE" x="294.64" y="492.76" size="1.778" layer="98"/>
 </instance>
-<instance part="J8" gate="-1" x="294.64" y="416.56" smashed="yes" rot="R180"/>
-<instance part="J8" gate="-2" x="294.64" y="411.48" smashed="yes" rot="R180"/>
-<instance part="J8" gate="-3" x="294.64" y="406.4" smashed="yes" rot="R180"/>
-<instance part="J8" gate="-4" x="294.64" y="401.32" smashed="yes" rot="R180"/>
-<instance part="J8" gate="-5" x="294.64" y="396.24" smashed="yes" rot="R180"/>
-<instance part="J8" gate="-6" x="294.64" y="391.16" smashed="yes" rot="R180">
+<instance part="J7" gate="-1" x="294.64" y="416.56" smashed="yes" rot="R180"/>
+<instance part="J7" gate="-2" x="294.64" y="411.48" smashed="yes" rot="R180"/>
+<instance part="J7" gate="-3" x="294.64" y="406.4" smashed="yes" rot="R180"/>
+<instance part="J7" gate="-4" x="294.64" y="401.32" smashed="yes" rot="R180"/>
+<instance part="J7" gate="-5" x="294.64" y="396.24" smashed="yes" rot="R180"/>
+<instance part="J7" gate="-6" x="294.64" y="391.16" smashed="yes" rot="R180">
 <attribute name="VALUE" x="294.64" y="421.64" size="1.778" layer="98"/>
 </instance>
 <instance part="P+35" gate="1" x="350.52" y="510.54" smashed="yes" rot="MR0">
@@ -22647,14 +22858,14 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <instance part="P+41" gate="1" x="393.7" y="510.54" smashed="yes">
 <attribute name="VALUE" x="396.24" y="508" size="1.27" layer="96"/>
 </instance>
-<instance part="J17" gate="-1" x="281.94" y="129.54" smashed="yes" rot="R180"/>
-<instance part="J17" gate="-2" x="281.94" y="124.46" smashed="yes" rot="R180"/>
-<instance part="J17" gate="-3" x="281.94" y="119.38" smashed="yes" rot="R180">
+<instance part="J16" gate="-1" x="281.94" y="129.54" smashed="yes" rot="R180"/>
+<instance part="J16" gate="-2" x="281.94" y="124.46" smashed="yes" rot="R180"/>
+<instance part="J16" gate="-3" x="281.94" y="119.38" smashed="yes" rot="R180">
 <attribute name="VALUE" x="279.4" y="132.08" size="1.778" layer="98"/>
 </instance>
-<instance part="J19" gate="-1" x="281.94" y="109.22" smashed="yes" rot="R180"/>
-<instance part="J19" gate="-2" x="281.94" y="104.14" smashed="yes" rot="R180"/>
-<instance part="J19" gate="-3" x="281.94" y="99.06" smashed="yes" rot="R180">
+<instance part="J18" gate="-1" x="281.94" y="109.22" smashed="yes" rot="R180"/>
+<instance part="J18" gate="-2" x="281.94" y="104.14" smashed="yes" rot="R180"/>
+<instance part="J18" gate="-3" x="281.94" y="99.06" smashed="yes" rot="R180">
 <attribute name="VALUE" x="279.4" y="111.76" size="1.778" layer="98"/>
 </instance>
 <instance part="R31" gate="G$1" x="304.8" y="134.62" smashed="yes" rot="R90">
@@ -22674,7 +22885,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <instance part="P+38" gate="1" x="314.96" y="154.94" smashed="yes">
 <attribute name="VALUE" x="317.5" y="152.4" size="1.27" layer="96"/>
 </instance>
-<instance part="J15" gate="G$1" x="30.48" y="246.38" smashed="yes" rot="MR0"/>
+<instance part="J13" gate="G$1" x="30.48" y="246.38" smashed="yes" rot="MR0"/>
 <instance part="GND2" gate="1" x="45.72" y="210.82" smashed="yes">
 <attribute name="VALUE" x="44.069" y="208.28" size="1.27" layer="96"/>
 </instance>
@@ -22704,12 +22915,12 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <instance part="GND44" gate="1" x="320.04" y="236.22" smashed="yes">
 <attribute name="VALUE" x="318.1985" y="234.315" size="1.27" layer="96"/>
 </instance>
-<instance part="J5" gate="-1" x="294.64" y="452.12" smashed="yes" rot="R180"/>
-<instance part="J5" gate="-2" x="294.64" y="447.04" smashed="yes" rot="R180"/>
-<instance part="J5" gate="-3" x="294.64" y="441.96" smashed="yes" rot="R180"/>
-<instance part="J5" gate="-4" x="294.64" y="436.88" smashed="yes" rot="R180"/>
-<instance part="J5" gate="-5" x="294.64" y="431.8" smashed="yes" rot="R180"/>
-<instance part="J5" gate="-6" x="294.64" y="426.72" smashed="yes" rot="R180">
+<instance part="J4" gate="-1" x="294.64" y="452.12" smashed="yes" rot="R180"/>
+<instance part="J4" gate="-2" x="294.64" y="447.04" smashed="yes" rot="R180"/>
+<instance part="J4" gate="-3" x="294.64" y="441.96" smashed="yes" rot="R180"/>
+<instance part="J4" gate="-4" x="294.64" y="436.88" smashed="yes" rot="R180"/>
+<instance part="J4" gate="-5" x="294.64" y="431.8" smashed="yes" rot="R180"/>
+<instance part="J4" gate="-6" x="294.64" y="426.72" smashed="yes" rot="R180">
 <attribute name="VALUE" x="294.64" y="457.2" size="1.778" layer="98"/>
 </instance>
 <instance part="R6" gate="G$1" x="373.38" y="497.84" smashed="yes" rot="R90">
@@ -22844,17 +23055,17 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <instance part="GND29" gate="1" x="55.88" y="33.02" smashed="yes">
 <attribute name="VALUE" x="54.2925" y="31.115" size="1.27" layer="96"/>
 </instance>
-<instance part="J20" gate="-1" x="48.26" y="63.5" smashed="yes" rot="R180">
+<instance part="J19" gate="-1" x="48.26" y="63.5" smashed="yes" rot="R180">
 <attribute name="NAME" x="39.116" y="62.611" size="1.27" layer="95"/>
 </instance>
-<instance part="J20" gate="-2" x="48.26" y="58.42" smashed="yes" rot="R180">
+<instance part="J19" gate="-2" x="48.26" y="58.42" smashed="yes" rot="R180">
 <attribute name="NAME" x="39.116" y="57.531" size="1.27" layer="95"/>
 <attribute name="VALUE" x="35.56" y="66.04" size="1.27" layer="96"/>
 </instance>
-<instance part="J21" gate="-1" x="48.26" y="53.34" smashed="yes" rot="R180">
+<instance part="J20" gate="-1" x="48.26" y="53.34" smashed="yes" rot="R180">
 <attribute name="NAME" x="39.116" y="52.451" size="1.27" layer="95"/>
 </instance>
-<instance part="J21" gate="-2" x="48.26" y="48.26" smashed="yes" rot="R180">
+<instance part="J20" gate="-2" x="48.26" y="48.26" smashed="yes" rot="R180">
 <attribute name="NAME" x="39.116" y="47.371" size="1.27" layer="95"/>
 <attribute name="VALUE" x="35.56" y="42.926" size="1.27" layer="96"/>
 </instance>
@@ -22991,19 +23202,15 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <instance part="P+21" gate="1" x="111.76" y="33.02" smashed="yes">
 <attribute name="VALUE" x="114.3" y="30.48" size="1.27" layer="96"/>
 </instance>
-<instance part="J10" gate="-1" x="226.06" y="337.82" smashed="yes"/>
-<instance part="J10" gate="-2" x="226.06" y="332.74" smashed="yes"/>
-<instance part="J10" gate="-3" x="226.06" y="327.66" smashed="yes"/>
-<instance part="J10" gate="-4" x="226.06" y="322.58" smashed="yes">
+<instance part="J9" gate="-1" x="226.06" y="337.82" smashed="yes"/>
+<instance part="J9" gate="-2" x="226.06" y="332.74" smashed="yes"/>
+<instance part="J9" gate="-3" x="226.06" y="327.66" smashed="yes"/>
+<instance part="J9" gate="-4" x="226.06" y="322.58" smashed="yes">
 <attribute name="VALUE" x="223.52" y="340.36" size="1.27" layer="96"/>
 </instance>
 <instance part="IC14" gate="G$1" x="335.28" y="50.8" smashed="yes" rot="MR180">
 <attribute name="NAME" x="327.66" y="60.96" size="1.27" layer="95"/>
 <attribute name="VALUE" x="327.66" y="58.42" size="1.27" layer="95"/>
-</instance>
-<instance part="J22" gate="G$1" x="289.56" y="48.26" smashed="yes" rot="MR0">
-<attribute name="NAME" x="287.02" y="55.88" size="1.27" layer="95"/>
-<attribute name="VALUE" x="287.02" y="54.102" size="1.27" layer="96"/>
 </instance>
 <instance part="GND55" gate="1" x="299.72" y="33.02" smashed="yes" rot="MR0">
 <attribute name="VALUE" x="297.815" y="30.48" size="1.27" layer="96"/>
@@ -23022,11 +23229,11 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <instance part="GND57" gate="1" x="297.18" y="93.98" smashed="yes">
 <attribute name="VALUE" x="295.529" y="91.44" size="1.27" layer="96"/>
 </instance>
-<instance part="J18" gate="-1" x="439.42" y="127" smashed="yes" rot="R180"/>
-<instance part="J18" gate="-2" x="439.42" y="121.92" smashed="yes" rot="R180"/>
-<instance part="J18" gate="-3" x="439.42" y="116.84" smashed="yes" rot="R180"/>
-<instance part="J18" gate="-4" x="439.42" y="111.76" smashed="yes" rot="R180"/>
-<instance part="J18" gate="-5" x="439.42" y="106.68" smashed="yes" rot="R180">
+<instance part="J17" gate="-1" x="439.42" y="127" smashed="yes" rot="R180"/>
+<instance part="J17" gate="-2" x="439.42" y="121.92" smashed="yes" rot="R180"/>
+<instance part="J17" gate="-3" x="439.42" y="116.84" smashed="yes" rot="R180"/>
+<instance part="J17" gate="-4" x="439.42" y="111.76" smashed="yes" rot="R180"/>
+<instance part="J17" gate="-5" x="439.42" y="106.68" smashed="yes" rot="R180">
 <attribute name="VALUE" x="431.8" y="129.54" size="1.27" layer="96"/>
 </instance>
 <instance part="R35" gate="G$1" x="467.36" y="129.54" smashed="yes" rot="R270">
@@ -23151,27 +23358,23 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <attribute name="SHEET" x="248.92" y="1.27" size="2.54" layer="94" font="vector"/>
 <attribute name="DRAWING_NAME" x="180.34" y="19.05" size="2.54" layer="94" font="vector"/>
 </instance>
-<instance part="J12" gate="-1" x="297.18" y="299.72" smashed="yes"/>
-<instance part="J12" gate="-2" x="297.18" y="297.18" smashed="yes"/>
-<instance part="J12" gate="-3" x="297.18" y="294.64" smashed="yes"/>
-<instance part="J12" gate="-4" x="297.18" y="292.1" smashed="yes"/>
-<instance part="J12" gate="-5" x="297.18" y="289.56" smashed="yes"/>
-<instance part="J12" gate="-6" x="297.18" y="287.02" smashed="yes"/>
-<instance part="J12" gate="-7" x="297.18" y="284.48" smashed="yes"/>
-<instance part="J12" gate="-8" x="297.18" y="281.94" smashed="yes">
+<instance part="J11" gate="-1" x="297.18" y="299.72" smashed="yes"/>
+<instance part="J11" gate="-2" x="297.18" y="297.18" smashed="yes"/>
+<instance part="J11" gate="-3" x="297.18" y="294.64" smashed="yes"/>
+<instance part="J11" gate="-4" x="297.18" y="292.1" smashed="yes"/>
+<instance part="J11" gate="-5" x="297.18" y="289.56" smashed="yes"/>
+<instance part="J11" gate="-6" x="297.18" y="287.02" smashed="yes"/>
+<instance part="J11" gate="-7" x="297.18" y="284.48" smashed="yes"/>
+<instance part="J11" gate="-8" x="297.18" y="281.94" smashed="yes">
 <attribute name="VALUE" x="295.91" y="303.53" size="1.27" layer="96"/>
 </instance>
-<instance part="J11" gate="-1" x="22.86" y="330.2" smashed="yes"/>
-<instance part="J11" gate="-2" x="22.86" y="325.12" smashed="yes">
+<instance part="J10" gate="-1" x="22.86" y="330.2" smashed="yes"/>
+<instance part="J10" gate="-2" x="22.86" y="325.12" smashed="yes">
 <attribute name="VALUE" x="15.24" y="327.66" size="1.27" layer="96"/>
 </instance>
 <instance part="Q1" gate="G$1" x="76.2" y="487.68" smashed="yes" rot="R90">
 <attribute name="NAME" x="73.66" y="500.38" size="1.27" layer="95"/>
 <attribute name="VALUE" x="73.66" y="497.84" size="1.27" layer="96"/>
-</instance>
-<instance part="J7" gate="G$1" x="134.62" y="421.64" smashed="yes" rot="MR0">
-<attribute name="NAME" x="127" y="431.8" size="1.27" layer="95"/>
-<attribute name="VALUE" x="127" y="429.26" size="1.27" layer="96"/>
 </instance>
 <instance part="GND15" gate="1" x="165.1" y="45.72" smashed="yes">
 <attribute name="VALUE" x="163.5125" y="43.815" size="1.27" layer="96"/>
@@ -23241,23 +23444,15 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <instance part="FRAME10" gate="G$2" x="162.56" y="0"/>
 <instance part="FRAME11" gate="G$1" x="266.7" y="0" smashed="yes"/>
 <instance part="FRAME11" gate="G$2" x="162.56" y="0"/>
-<instance part="J13" gate="G$1" x="502.92" y="264.16" smashed="yes">
-<attribute name="NAME" x="496.57" y="271.399" size="1.27" layer="95"/>
-<attribute name="VALUE" x="496.57" y="269.748" size="1.27" layer="96"/>
-</instance>
-<instance part="J16" gate="G$1" x="393.7" y="226.06" smashed="yes" rot="R180">
-<attribute name="NAME" x="392.43" y="230.759" size="1.27" layer="95"/>
-<attribute name="VALUE" x="392.43" y="229.108" size="1.27" layer="96"/>
-</instance>
 <instance part="FRAME2" gate="G$1" x="0" y="0" smashed="yes"/>
 <instance part="FRAME2" gate="G$2" x="162.56" y="0"/>
 <instance part="FRAME4" gate="G$2" x="162.56" y="0"/>
 <instance part="U$" gate="G$1" x="281.94" y="198.12" smashed="yes"/>
-<instance part="$0000002" gate="G$1" x="248.92" y="198.12" smashed="yes"/>
+<instance part="$1" gate="G$1" x="248.92" y="198.12" smashed="yes"/>
 <instance part="U$1" gate="G$1" x="248.92" y="381" smashed="yes"/>
 <instance part="U$3" gate="G$1" x="513.08" y="15.24" smashed="yes"/>
 <instance part="U$2" gate="G$1" x="513.08" y="381" smashed="yes"/>
-<instance part="J9" gate="P" x="355.6" y="401.32" smashed="yes" rot="R180">
+<instance part="J8" gate="P" x="355.6" y="401.32" smashed="yes" rot="R180">
 <attribute name="NAME" x="358.14" y="401.32" size="1.27" layer="95"/>
 <attribute name="VALUE" x="358.14" y="398.78" size="1.27" layer="96"/>
 </instance>
@@ -23397,16 +23592,36 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <attribute name="NAME" x="45.72" y="429.26" size="1.27" layer="95"/>
 <attribute name="VALUE" x="45.72" y="426.72" size="1.27" layer="96"/>
 </instance>
+<instance part="J12" gate="G$1" x="497.84" y="261.62" smashed="yes" rot="R180">
+<attribute name="VALUE" x="494.03" y="264.668" size="1.27" layer="96"/>
+<attribute name="NAME" x="494.03" y="266.7" size="1.27" layer="95"/>
+</instance>
+<instance part="J15" gate="G$1" x="393.7" y="223.52" smashed="yes">
+<attribute name="VALUE" x="391.16" y="229.108" size="1.27" layer="96"/>
+<attribute name="NAME" x="391.16" y="231.14" size="1.27" layer="95"/>
+</instance>
+<instance part="J14" gate="A" x="363.22" y="246.38" smashed="yes">
+<attribute name="NAME" x="356.87" y="256.54" size="1.27" layer="95"/>
+<attribute name="VALUE" x="356.87" y="254" size="1.27" layer="96"/>
+</instance>
+<instance part="J6" gate="A" x="134.62" y="421.64" smashed="yes" rot="MR0">
+<attribute name="NAME" x="125.73" y="429.387" size="1.27" layer="95"/>
+<attribute name="VALUE" x="125.73" y="427.482" size="1.27" layer="96"/>
+</instance>
+<instance part="J21" gate="G$1" x="297.18" y="48.26" smashed="yes" rot="MR0">
+<attribute name="NAME" x="289.56" y="58.42" size="1.27" layer="95"/>
+<attribute name="VALUE" x="289.56" y="55.88" size="1.27" layer="96"/>
+</instance>
 </instances>
 <busses>
 </busses>
 <nets>
 <net name="GND" class="0">
 <segment>
-<wire x1="370.84" y1="245.11" x2="373.38" y2="245.11" width="0.1524" layer="91"/>
-<wire x1="373.38" y1="245.11" x2="373.38" y2="240.03" width="0.1524" layer="91"/>
-<pinref part="J14" gate="G$1" pin="6"/>
+<wire x1="368.3" y1="243.84" x2="370.84" y2="243.84" width="0.1524" layer="91"/>
+<wire x1="370.84" y1="243.84" x2="370.84" y2="238.76" width="0.1524" layer="91"/>
 <pinref part="GND25" gate="1" pin="GND"/>
+<pinref part="J14" gate="A" pin="6"/>
 </segment>
 <segment>
 <wire x1="66.04" y1="492.76" x2="60.96" y2="492.76" width="0.1524" layer="91"/>
@@ -23442,14 +23657,14 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </segment>
 <segment>
 <wire x1="73.66" y1="416.56" x2="73.66" y2="421.64" width="0.1524" layer="91"/>
-<pinref part="J6" gate="1" pin="2"/>
+<pinref part="J5" gate="1" pin="2"/>
 <pinref part="GND32" gate="1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="124.46" y1="419.1" x2="120.65" y2="419.1" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="419.1" x2="120.65" y2="419.1" width="0.1524" layer="91"/>
 <wire x1="120.65" y1="416.56" x2="120.65" y2="419.1" width="0.1524" layer="91"/>
 <pinref part="GND43" gate="1" pin="GND"/>
-<pinref part="J7" gate="G$1" pin="6"/>
+<pinref part="J6" gate="A" pin="6"/>
 </segment>
 <segment>
 <wire x1="297.18" y1="467.36" x2="342.9" y2="467.36" width="0.1524" layer="91"/>
@@ -23461,9 +23676,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="342.9" y="396.24"/>
 <junction x="342.9" y="431.8"/>
 <pinref part="J1" gate="-5" pin="1"/>
-<pinref part="J8" gate="-5" pin="1"/>
+<pinref part="J7" gate="-5" pin="1"/>
 <pinref part="GND1" gate="1" pin="GND"/>
-<pinref part="J5" gate="-5" pin="1"/>
+<pinref part="J4" gate="-5" pin="1"/>
 </segment>
 <segment>
 <wire x1="43.18" y1="264.16" x2="45.72" y2="264.16" width="0.1524" layer="91"/>
@@ -23477,10 +23692,10 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="45.72" y="228.6"/>
 <junction x="45.72" y="233.68"/>
 <junction x="45.72" y="236.22"/>
-<pinref part="J15" gate="G$1" pin="COMMON_SW"/>
-<pinref part="J15" gate="G$1" pin="GND"/>
-<pinref part="J15" gate="G$1" pin="VSS1"/>
-<pinref part="J15" gate="G$1" pin="VSS2"/>
+<pinref part="J13" gate="G$1" pin="COMMON_SW"/>
+<pinref part="J13" gate="G$1" pin="GND"/>
+<pinref part="J13" gate="G$1" pin="VSS1"/>
+<pinref part="J13" gate="G$1" pin="VSS2"/>
 <pinref part="GND2" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -23540,7 +23755,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="294.64" y1="297.18" x2="292.1" y2="297.18" width="0.1524" layer="91"/>
 <wire x1="292.1" y1="297.18" x2="292.1" y2="279.4" width="0.1524" layer="91"/>
 <pinref part="GND12" gate="1" pin="GND"/>
-<pinref part="J12" gate="-2" pin="1"/>
+<pinref part="J11" gate="-2" pin="1"/>
 </segment>
 <segment>
 <wire x1="101.6" y1="215.9" x2="101.6" y2="213.36" width="0.1524" layer="91"/>
@@ -23551,7 +23766,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="50.8" y1="48.26" x2="55.88" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="55.88" y1="35.56" x2="55.88" y2="48.26" width="0.1524" layer="91"/>
 <pinref part="GND29" gate="1" pin="GND"/>
-<pinref part="J21" gate="-2" pin="1"/>
+<pinref part="J20" gate="-2" pin="1"/>
 </segment>
 <segment>
 <wire x1="203.2" y1="53.34" x2="203.2" y2="48.26" width="0.1524" layer="91"/>
@@ -23574,14 +23789,14 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="284.48" y1="99.06" x2="297.18" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="297.18" y1="96.52" x2="297.18" y2="99.06" width="0.1524" layer="91"/>
 <junction x="297.18" y="99.06"/>
-<pinref part="J17" gate="-3" pin="1"/>
-<pinref part="J19" gate="-3" pin="1"/>
+<pinref part="J16" gate="-3" pin="1"/>
+<pinref part="J18" gate="-3" pin="1"/>
 <pinref part="GND57" gate="1" pin="GND"/>
 </segment>
 <segment>
 <wire x1="441.96" y1="106.68" x2="447.04" y2="106.68" width="0.1524" layer="91"/>
 <wire x1="447.04" y1="106.68" x2="447.04" y2="96.52" width="0.1524" layer="91"/>
-<pinref part="J18" gate="-5" pin="1"/>
+<pinref part="J17" gate="-5" pin="1"/>
 <pinref part="GND59" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -23672,7 +23887,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="223.52" y1="327.66" x2="213.36" y2="327.66" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="327.66" x2="213.36" y2="266.7" width="0.1524" layer="91"/>
-<pinref part="J10" gate="-3" pin="1"/>
+<pinref part="J9" gate="-3" pin="1"/>
 <pinref part="GND48" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -23721,17 +23936,12 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <pinref part="GND53" gate="1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="297.18" y1="43.18" x2="299.72" y2="43.18" width="0.1524" layer="91"/>
+<pinref part="J21" gate="G$1" pin="GND"/>
 <wire x1="299.72" y1="43.18" x2="299.72" y2="35.56" width="0.1524" layer="91"/>
-<wire x1="299.72" y1="45.72" x2="297.18" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="299.72" y1="43.18" x2="299.72" y2="45.72" width="0.1524" layer="91"/>
-<junction x="299.72" y="43.18"/>
 <pinref part="GND55" gate="1" pin="GND"/>
-<pinref part="J22" gate="G$1" pin="GND1"/>
-<pinref part="J22" gate="G$1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="297.18" y1="48.26" x2="320.04" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="302.26" y1="48.26" x2="320.04" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="320.04" y1="48.26" x2="322.58" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="322.58" y1="45.72" x2="320.04" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="320.04" y1="45.72" x2="320.04" y2="48.26" width="0.1524" layer="91"/>
@@ -23739,9 +23949,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="320.04" y="48.26"/>
 <junction x="320.04" y="45.72"/>
 <pinref part="IC14" gate="G$1" pin="T-"/>
-<pinref part="J22" gate="G$1" pin="T-"/>
 <pinref part="IC14" gate="G$1" pin="GND"/>
 <pinref part="GND17" gate="1" pin="GND"/>
+<pinref part="J21" gate="G$1" pin="T-"/>
 </segment>
 <segment>
 <wire x1="109.22" y1="215.9" x2="109.22" y2="213.36" width="0.1524" layer="91"/>
@@ -23799,7 +24009,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="27.94" y1="325.12" x2="30.48" y2="325.12" width="0.1524" layer="91"/>
 <wire x1="30.48" y1="325.12" x2="30.48" y2="309.88" width="0.1524" layer="91"/>
-<pinref part="J11" gate="-2" pin="KL"/>
+<pinref part="J10" gate="-2" pin="KL"/>
 <pinref part="GND69" gate="1" pin="GND"/>
 </segment>
 </net>
@@ -23815,8 +24025,8 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="350.52" y="426.72"/>
 <pinref part="P+35" gate="1" pin="+24V"/>
 <pinref part="J1" gate="-6" pin="1"/>
-<pinref part="J8" gate="-6" pin="1"/>
-<pinref part="J5" gate="-6" pin="1"/>
+<pinref part="J7" gate="-6" pin="1"/>
+<pinref part="J4" gate="-6" pin="1"/>
 </segment>
 <segment>
 <wire x1="284.48" y1="129.54" x2="294.64" y2="129.54" width="0.1524" layer="91"/>
@@ -23825,13 +24035,13 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="284.48" y1="109.22" x2="294.64" y2="109.22" width="0.1524" layer="91"/>
 <junction x="294.64" y="129.54"/>
 <pinref part="P+36" gate="1" pin="+24V"/>
-<pinref part="J17" gate="-1" pin="1"/>
-<pinref part="J19" gate="-1" pin="1"/>
+<pinref part="J16" gate="-1" pin="1"/>
+<pinref part="J18" gate="-1" pin="1"/>
 </segment>
 <segment>
 <wire x1="441.96" y1="127" x2="447.04" y2="127" width="0.1524" layer="91"/>
 <wire x1="447.04" y1="127" x2="447.04" y2="137.16" width="0.1524" layer="91"/>
-<pinref part="J18" gate="-1" pin="1"/>
+<pinref part="J17" gate="-1" pin="1"/>
 <pinref part="P+39" gate="1" pin="+24V"/>
 </segment>
 <segment>
@@ -23847,7 +24057,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <pinref part="P+49" gate="1" pin="+24V"/>
 <pinref part="R18" gate="G$1" pin="1"/>
 <pinref part="C9" gate="G$1" pin="+"/>
-<pinref part="J11" gate="-1" pin="KL"/>
+<pinref part="J10" gate="-1" pin="KL"/>
 </segment>
 </net>
 <net name="X_STEP" class="0">
@@ -23873,7 +24083,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="363.22" y1="492.76" x2="363.22" y2="452.12" width="0.1524" layer="91"/>
 <junction x="363.22" y="452.12"/>
 <label x="398.78" y="452.374" size="1.27" layer="95"/>
-<pinref part="J5" gate="-1" pin="1"/>
+<pinref part="J4" gate="-1" pin="1"/>
 <pinref part="R5" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -23889,7 +24099,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="373.38" y1="492.76" x2="373.38" y2="447.04" width="0.1524" layer="91"/>
 <junction x="373.38" y="447.04"/>
 <label x="398.78" y="447.294" size="1.27" layer="95"/>
-<pinref part="J5" gate="-2" pin="1"/>
+<pinref part="J4" gate="-2" pin="1"/>
 <pinref part="R6" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -23916,10 +24126,10 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </net>
 <net name="+5V" class="0">
 <segment>
-<wire x1="370.84" y1="250.19" x2="373.38" y2="250.19" width="0.1524" layer="91"/>
-<wire x1="373.38" y1="250.19" x2="373.38" y2="255.27" width="0.1524" layer="91"/>
-<pinref part="J14" gate="G$1" pin="2"/>
+<wire x1="368.3" y1="248.92" x2="370.84" y2="248.92" width="0.1524" layer="91"/>
+<wire x1="370.84" y1="248.92" x2="370.84" y2="254" width="0.1524" layer="91"/>
 <pinref part="P+23" gate="1" pin="+5V"/>
+<pinref part="J14" gate="A" pin="2"/>
 </segment>
 <segment>
 <wire x1="104.14" y1="513.08" x2="104.14" y2="510.54" width="0.1524" layer="91"/>
@@ -23941,10 +24151,10 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <pinref part="C5" gate="G$1" pin="1"/>
 </segment>
 <segment>
-<wire x1="124.46" y1="424.18" x2="120.65" y2="424.18" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="424.18" x2="120.65" y2="424.18" width="0.1524" layer="91"/>
 <wire x1="120.65" y1="424.18" x2="120.65" y2="429.26" width="0.1524" layer="91"/>
 <pinref part="P+26" gate="1" pin="+5V"/>
-<pinref part="J7" gate="G$1" pin="2"/>
+<pinref part="J6" gate="A" pin="2"/>
 </segment>
 <segment>
 <wire x1="182.88" y1="474.98" x2="182.88" y2="477.52" width="0.1524" layer="91"/>
@@ -24006,9 +24216,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <pinref part="R3" gate="G$1" pin="2"/>
 <pinref part="P+1" gate="1" pin="+5V"/>
 <pinref part="R4" gate="G$1" pin="2"/>
-<pinref part="J8" gate="-3" pin="1"/>
+<pinref part="J7" gate="-3" pin="1"/>
 <pinref part="J1" gate="-3" pin="1"/>
-<pinref part="J5" gate="-3" pin="1"/>
+<pinref part="J4" gate="-3" pin="1"/>
 </segment>
 <segment>
 <wire x1="287.02" y1="251.46" x2="292.1" y2="251.46" width="0.1524" layer="91"/>
@@ -24049,7 +24259,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="292.1" y1="302.26" x2="292.1" y2="299.72" width="0.1524" layer="91"/>
 <wire x1="292.1" y1="299.72" x2="294.64" y2="299.72" width="0.1524" layer="91"/>
 <pinref part="P+8" gate="1" pin="+5V"/>
-<pinref part="J12" gate="-1" pin="1"/>
+<pinref part="J11" gate="-1" pin="1"/>
 </segment>
 <segment>
 <wire x1="177.8" y1="111.76" x2="177.8" y2="147.32" width="0.1524" layer="91"/>
@@ -24149,7 +24359,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="452.12" y1="137.16" x2="452.12" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="452.12" y1="121.92" x2="441.96" y2="121.92" width="0.1524" layer="91"/>
-<pinref part="J18" gate="-2" pin="1"/>
+<pinref part="J17" gate="-2" pin="1"/>
 <pinref part="P+30" gate="1" pin="+5V"/>
 </segment>
 <segment>
@@ -24244,7 +24454,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="223.52" y1="337.82" x2="157.48" y2="337.82" width="0.1524" layer="91"/>
 <label x="160.02" y="338.074" size="1.27" layer="95"/>
-<pinref part="J10" gate="-1" pin="1"/>
+<pinref part="J9" gate="-1" pin="1"/>
 </segment>
 </net>
 <net name="!DOOR" class="0">
@@ -24265,7 +24475,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="114.3" y="68.58"/>
 <label x="38.1" y="132.334" size="1.27" layer="95"/>
 <label x="233.68" y="132.08" size="1.27" layer="95"/>
-<pinref part="J20" gate="-1" pin="1"/>
+<pinref part="J19" gate="-1" pin="1"/>
 <pinref part="IC12" gate="A" pin="I1"/>
 <pinref part="R28" gate="G$1" pin="1"/>
 </segment>
@@ -24281,7 +24491,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <label x="160.02" y="332.994" size="1.27" layer="95"/>
 <pinref part="IC4" gate="A" pin="I1"/>
 <pinref part="IC4" gate="A" pin="I0"/>
-<pinref part="J10" gate="-2" pin="1"/>
+<pinref part="J9" gate="-2" pin="1"/>
 </segment>
 </net>
 <net name="LASER_PWM" class="0">
@@ -24303,9 +24513,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </net>
 <net name="!RESET" class="0">
 <segment>
-<wire x1="353.06" y1="245.11" x2="337.82" y2="245.11" width="0.1524" layer="91"/>
-<label x="340.36" y="245.364" size="1.27" layer="95"/>
-<pinref part="J14" gate="G$1" pin="5"/>
+<wire x1="360.68" y1="243.84" x2="345.44" y2="243.84" width="0.1524" layer="91"/>
+<label x="347.98" y="244.094" size="1.27" layer="95"/>
+<pinref part="J14" gate="A" pin="5"/>
 </segment>
 <segment>
 <wire x1="218.44" y1="464.82" x2="233.68" y2="464.82" width="0.1524" layer="91"/>
@@ -24428,7 +24638,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="53.34" y1="457.2" x2="55.88" y2="457.2" width="0.1524" layer="91"/>
 <wire x1="53.34" y1="447.04" x2="53.34" y2="457.2" width="0.1524" layer="91"/>
 <junction x="53.34" y="457.2"/>
-<pinref part="J4" gate="G$1" pin="D-"/>
+<pinref part="J3" gate="G$1" pin="D-"/>
 <pinref part="R14" gate="G$1" pin="2"/>
 <pinref part="Z1" gate="G$1" pin="P$1"/>
 </segment>
@@ -24449,8 +24659,8 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="73.66" y="447.04"/>
 <pinref part="IC1" gate="G$1" pin="UGND"/>
 <pinref part="L1" gate="G$1" pin="2"/>
-<pinref part="J6" gate="1" pin="1"/>
-<pinref part="J4" gate="G$1" pin="GND"/>
+<pinref part="J5" gate="1" pin="1"/>
+<pinref part="J3" gate="G$1" pin="GND"/>
 </segment>
 </net>
 <net name="N$120" class="0">
@@ -24467,10 +24677,10 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="38.1" y="431.8"/>
 <junction x="40.64" y="431.8"/>
 <junction x="43.18" y="431.8"/>
-<pinref part="J4" gate="G$1" pin="SH$1"/>
-<pinref part="J4" gate="G$1" pin="SH$2"/>
-<pinref part="J4" gate="G$1" pin="SH$3"/>
-<pinref part="J4" gate="G$1" pin="SH$4"/>
+<pinref part="J3" gate="G$1" pin="SH$1"/>
+<pinref part="J3" gate="G$1" pin="SH$2"/>
+<pinref part="J3" gate="G$1" pin="SH$3"/>
+<pinref part="J3" gate="G$1" pin="SH$4"/>
 <pinref part="L1" gate="G$1" pin="1"/>
 <pinref part="Z1" gate="G$1" pin="P$3"/>
 <wire x1="50.8" y1="436.88" x2="50.8" y2="431.8" width="0.1524" layer="91"/>
@@ -24480,15 +24690,15 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <net name="N$97" class="0">
 <segment>
 <wire x1="45.72" y1="462.28" x2="55.88" y2="462.28" width="0.1524" layer="91"/>
-<pinref part="J4" gate="G$1" pin="VBUS"/>
+<pinref part="J3" gate="G$1" pin="VBUS"/>
 <pinref part="F1" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="8U2_SCK" class="0">
 <segment>
-<wire x1="142.24" y1="421.64" x2="160.02" y2="421.64" width="0.1524" layer="91"/>
-<label x="147.32" y="421.894" size="1.27" layer="95"/>
-<pinref part="J7" gate="G$1" pin="3"/>
+<wire x1="137.16" y1="421.64" x2="157.48" y2="421.64" width="0.1524" layer="91"/>
+<label x="144.78" y="421.894" size="1.27" layer="95"/>
+<pinref part="J6" gate="A" pin="3"/>
 </segment>
 <segment>
 <wire x1="149.86" y1="487.68" x2="165.1" y2="487.68" width="0.1524" layer="91"/>
@@ -24498,9 +24708,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </net>
 <net name="8U2_MISO" class="0">
 <segment>
-<wire x1="142.24" y1="424.18" x2="160.02" y2="424.18" width="0.1524" layer="91"/>
-<label x="147.32" y="424.434" size="1.27" layer="95"/>
-<pinref part="J7" gate="G$1" pin="1"/>
+<wire x1="137.16" y1="424.18" x2="157.48" y2="424.18" width="0.1524" layer="91"/>
+<label x="144.78" y="424.434" size="1.27" layer="95"/>
+<pinref part="J6" gate="A" pin="1"/>
 </segment>
 <segment>
 <wire x1="149.86" y1="492.76" x2="165.1" y2="492.76" width="0.1524" layer="91"/>
@@ -24510,9 +24720,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </net>
 <net name="8U2_MOSI" class="0">
 <segment>
-<wire x1="124.46" y1="421.64" x2="107.95" y2="421.64" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="421.64" x2="107.95" y2="421.64" width="0.1524" layer="91"/>
 <label x="109.22" y="421.894" size="1.27" layer="95"/>
-<pinref part="J7" gate="G$1" pin="4"/>
+<pinref part="J6" gate="A" pin="4"/>
 </segment>
 <segment>
 <wire x1="149.86" y1="490.22" x2="165.1" y2="490.22" width="0.1524" layer="91"/>
@@ -24551,7 +24761,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="48.26" y1="447.04" x2="48.26" y2="449.58" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="452.12" x2="48.26" y2="449.58" width="0.1524" layer="91"/>
 <junction x="50.8" y="452.12"/>
-<pinref part="J4" gate="G$1" pin="D+"/>
+<pinref part="J3" gate="G$1" pin="D+"/>
 <pinref part="R16" gate="G$1" pin="2"/>
 <pinref part="Z1" gate="G$1" pin="P$2"/>
 </segment>
@@ -24569,10 +24779,10 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="335.28" y="472.44"/>
 <junction x="335.28" y="436.88"/>
 <pinref part="J1" gate="-4" pin="1"/>
-<pinref part="J8" gate="-4" pin="1"/>
+<pinref part="J7" gate="-4" pin="1"/>
 <pinref part="R3" gate="G$1" pin="1"/>
-<pinref part="J5" gate="-4" pin="1"/>
-<pinref part="J9" gate="P" pin="P"/>
+<pinref part="J4" gate="-4" pin="1"/>
+<pinref part="J8" gate="P" pin="P"/>
 </segment>
 </net>
 <net name="X_HOME" class="0">
@@ -24585,7 +24795,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="304.8" y="124.46"/>
 <junction x="335.28" y="124.46"/>
 <label x="340.36" y="124.714" size="1.27" layer="95"/>
-<pinref part="J17" gate="-2" pin="1"/>
+<pinref part="J16" gate="-2" pin="1"/>
 <pinref part="R31" gate="G$1" pin="1"/>
 <pinref part="LED7" gate="G$1" pin="C"/>
 </segment>
@@ -24605,7 +24815,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="314.96" y="104.14"/>
 <junction x="325.12" y="104.14"/>
 <label x="340.36" y="104.394" size="1.27" layer="95"/>
-<pinref part="J19" gate="-2" pin="1"/>
+<pinref part="J18" gate="-2" pin="1"/>
 <pinref part="R32" gate="G$1" pin="1"/>
 <pinref part="LED9" gate="G$1" pin="C"/>
 </segment>
@@ -24617,9 +24827,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </net>
 <net name="MOSI" class="0">
 <segment>
-<wire x1="370.84" y1="247.65" x2="383.54" y2="247.65" width="0.1524" layer="91"/>
-<label x="375.92" y="247.904" size="1.27" layer="95"/>
-<pinref part="J14" gate="G$1" pin="4"/>
+<wire x1="368.3" y1="246.38" x2="381" y2="246.38" width="0.1524" layer="91"/>
+<label x="373.38" y="246.634" size="1.27" layer="95"/>
+<pinref part="J14" gate="A" pin="4"/>
 </segment>
 <segment>
 <wire x1="474.98" y1="314.96" x2="491.49" y2="314.96" width="0.1524" layer="91"/>
@@ -24629,7 +24839,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="294.64" y1="287.02" x2="280.67" y2="287.02" width="0.1524" layer="91"/>
 <label x="283.21" y="287.274" size="1.27" layer="95"/>
-<pinref part="J12" gate="-6" pin="1"/>
+<pinref part="J11" gate="-6" pin="1"/>
 </segment>
 <segment>
 <wire x1="73.66" y1="256.54" x2="116.84" y2="256.54" width="0.1524" layer="91"/>
@@ -24639,9 +24849,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </net>
 <net name="MISO" class="0">
 <segment>
-<wire x1="353.06" y1="250.19" x2="337.82" y2="250.19" width="0.1524" layer="91"/>
-<label x="340.36" y="250.444" size="1.27" layer="95"/>
-<pinref part="J14" gate="G$1" pin="1"/>
+<wire x1="360.68" y1="248.92" x2="345.44" y2="248.92" width="0.1524" layer="91"/>
+<label x="347.98" y="249.174" size="1.27" layer="95"/>
+<pinref part="J14" gate="A" pin="1"/>
 </segment>
 <segment>
 <wire x1="474.98" y1="317.5" x2="491.49" y2="317.5" width="0.1524" layer="91"/>
@@ -24651,14 +24861,14 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="294.64" y1="289.56" x2="280.67" y2="289.56" width="0.1524" layer="91"/>
 <label x="283.21" y="289.814" size="1.27" layer="95"/>
-<pinref part="J12" gate="-5" pin="1"/>
+<pinref part="J11" gate="-5" pin="1"/>
 </segment>
 <segment>
 <wire x1="43.18" y1="256.54" x2="48.26" y2="256.54" width="0.1524" layer="91"/>
 <wire x1="48.26" y1="256.54" x2="48.26" y2="264.16" width="0.1524" layer="91"/>
 <wire x1="48.26" y1="264.16" x2="116.84" y2="264.16" width="0.1524" layer="91"/>
 <label x="109.22" y="264.414" size="1.27" layer="95"/>
-<pinref part="J15" gate="G$1" pin="DATA_OUT"/>
+<pinref part="J13" gate="G$1" pin="DATA_OUT"/>
 </segment>
 <segment>
 <wire x1="347.98" y1="48.26" x2="363.22" y2="48.26" width="0.1524" layer="91"/>
@@ -24668,9 +24878,9 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </net>
 <net name="SCK" class="0">
 <segment>
-<wire x1="353.06" y1="247.65" x2="337.82" y2="247.65" width="0.1524" layer="91"/>
-<label x="340.36" y="247.904" size="1.27" layer="95"/>
-<pinref part="J14" gate="G$1" pin="3"/>
+<wire x1="360.68" y1="246.38" x2="345.44" y2="246.38" width="0.1524" layer="91"/>
+<label x="347.98" y="246.634" size="1.27" layer="95"/>
+<pinref part="J14" gate="A" pin="3"/>
 </segment>
 <segment>
 <wire x1="474.98" y1="312.42" x2="491.49" y2="312.42" width="0.1524" layer="91"/>
@@ -24680,7 +24890,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="294.64" y1="284.48" x2="280.67" y2="284.48" width="0.1524" layer="91"/>
 <label x="283.21" y="284.734" size="1.27" layer="95"/>
-<pinref part="J12" gate="-7" pin="1"/>
+<pinref part="J11" gate="-7" pin="1"/>
 </segment>
 <segment>
 <wire x1="363.22" y1="53.34" x2="347.98" y2="53.34" width="0.1524" layer="91"/>
@@ -24721,7 +24931,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="43.18" y1="238.76" x2="50.8" y2="238.76" width="0.1524" layer="91"/>
 <pinref part="+3V1" gate="G$1" pin="+3V3"/>
-<pinref part="J15" gate="G$1" pin="VDD"/>
+<pinref part="J13" gate="G$1" pin="VDD"/>
 </segment>
 <segment>
 <wire x1="101.6" y1="226.06" x2="101.6" y2="223.52" width="0.1524" layer="91"/>
@@ -24741,7 +24951,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="393.7" y1="492.76" x2="393.7" y2="411.48" width="0.1524" layer="91"/>
 <junction x="393.7" y="411.48"/>
 <label x="398.78" y="411.734" size="1.27" layer="95"/>
-<pinref part="J8" gate="-2" pin="1"/>
+<pinref part="J7" gate="-2" pin="1"/>
 <pinref part="R8" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -24766,7 +24976,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="467.36" y="111.76"/>
 <junction x="477.52" y="111.76"/>
 <label x="485.14" y="112.014" size="1.27" layer="95"/>
-<pinref part="J18" gate="-4" pin="1"/>
+<pinref part="J17" gate="-4" pin="1"/>
 <pinref part="R35" gate="G$1" pin="2"/>
 <pinref part="R39" gate="G$1" pin="1"/>
 <pinref part="LED8" gate="G$1" pin="C"/>
@@ -24779,7 +24989,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="383.54" y1="492.76" x2="383.54" y2="416.56" width="0.1524" layer="91"/>
 <junction x="383.54" y="416.56"/>
 <label x="398.78" y="416.814" size="1.27" layer="95"/>
-<pinref part="J8" gate="-1" pin="1"/>
+<pinref part="J7" gate="-1" pin="1"/>
 <pinref part="R7" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -24797,7 +25007,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="294.64" y1="292.1" x2="280.67" y2="292.1" width="0.1524" layer="91"/>
 <label x="283.21" y="292.354" size="1.27" layer="95"/>
-<pinref part="J12" gate="-4" pin="1"/>
+<pinref part="J11" gate="-4" pin="1"/>
 </segment>
 </net>
 <net name="UI_RXD" class="0">
@@ -24809,7 +25019,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="294.64" y1="294.64" x2="280.67" y2="294.64" width="0.1524" layer="91"/>
 <label x="283.21" y="294.894" size="1.27" layer="95"/>
-<pinref part="J12" gate="-3" pin="1"/>
+<pinref part="J11" gate="-3" pin="1"/>
 </segment>
 </net>
 <net name="BEE_TXD" class="0">
@@ -24914,8 +25124,8 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="50.8" y1="58.42" x2="55.88" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="55.88" y1="58.42" x2="55.88" y2="53.34" width="0.1524" layer="91"/>
 <wire x1="55.88" y1="53.34" x2="50.8" y2="53.34" width="0.1524" layer="91"/>
-<pinref part="J20" gate="-2" pin="1"/>
-<pinref part="J21" gate="-1" pin="1"/>
+<pinref part="J19" gate="-2" pin="1"/>
+<pinref part="J20" gate="-1" pin="1"/>
 </segment>
 </net>
 <net name="N$17" class="0">
@@ -24969,16 +25179,16 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </net>
 <net name="N$25" class="0">
 <segment>
-<wire x1="322.58" y1="50.8" x2="297.18" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="322.58" y1="50.8" x2="302.26" y2="50.8" width="0.1524" layer="91"/>
 <pinref part="IC14" gate="G$1" pin="T+"/>
-<pinref part="J22" gate="G$1" pin="T+"/>
+<pinref part="J21" gate="G$1" pin="T+"/>
 </segment>
 </net>
 <net name="N$35" class="0">
 <segment>
 <wire x1="441.96" y1="116.84" x2="457.2" y2="116.84" width="0.1524" layer="91"/>
 <wire x1="457.2" y1="116.84" x2="457.2" y2="124.46" width="0.1524" layer="91"/>
-<pinref part="J18" gate="-3" pin="1"/>
+<pinref part="J17" gate="-3" pin="1"/>
 <pinref part="R34" gate="G$1" pin="2"/>
 </segment>
 </net>
@@ -25086,7 +25296,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <junction x="68.58" y="266.7"/>
 <label x="109.22" y="266.954" size="1.27" layer="95"/>
 <pinref part="R24" gate="G$1" pin="2"/>
-<pinref part="J15" gate="G$1" pin="CARD_DETECT"/>
+<pinref part="J13" gate="G$1" pin="CARD_DETECT"/>
 </segment>
 <segment>
 <wire x1="474.98" y1="274.32" x2="491.49" y2="274.32" width="0.1524" layer="91"/>
@@ -25103,14 +25313,14 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="294.64" y1="281.94" x2="280.67" y2="281.94" width="0.1524" layer="91"/>
 <label x="283.21" y="282.194" size="1.27" layer="95"/>
-<pinref part="J12" gate="-8" pin="1"/>
+<pinref part="J11" gate="-8" pin="1"/>
 </segment>
 </net>
 <net name="!8U2_RESET" class="0">
 <segment>
-<wire x1="142.24" y1="419.1" x2="160.02" y2="419.1" width="0.1524" layer="91"/>
-<label x="147.32" y="419.354" size="1.27" layer="95"/>
-<pinref part="J7" gate="G$1" pin="5"/>
+<wire x1="137.16" y1="419.1" x2="157.48" y2="419.1" width="0.1524" layer="91"/>
+<label x="144.78" y="419.354" size="1.27" layer="95"/>
+<pinref part="J6" gate="A" pin="5"/>
 </segment>
 <segment>
 <wire x1="109.22" y1="497.84" x2="104.14" y2="497.84" width="0.1524" layer="91"/>
@@ -25124,30 +25334,34 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 </net>
 <net name="SDA" class="0">
 <segment>
-<wire x1="474.98" y1="266.7" x2="500.38" y2="266.7" width="0.1524" layer="91"/>
+<wire x1="474.98" y1="266.7" x2="480.06" y2="266.7" width="0.1524" layer="91"/>
+<wire x1="480.06" y1="266.7" x2="485.14" y2="261.62" width="0.1524" layer="91"/>
+<wire x1="485.14" y1="261.62" x2="490.22" y2="261.62" width="0.1524" layer="91"/>
 <pinref part="IC6" gate="1" pin="(SDA/INT1)PD1"/>
-<pinref part="J13" gate="G$1" pin="1"/>
+<pinref part="J12" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="SCL" class="0">
 <segment>
-<wire x1="474.98" y1="264.16" x2="500.38" y2="264.16" width="0.1524" layer="91"/>
+<wire x1="474.98" y1="264.16" x2="477.52" y2="264.16" width="0.1524" layer="91"/>
+<wire x1="477.52" y1="264.16" x2="482.6" y2="259.08" width="0.1524" layer="91"/>
+<wire x1="482.6" y1="259.08" x2="490.22" y2="259.08" width="0.1524" layer="91"/>
 <pinref part="IC6" gate="1" pin="(SCL/INT0)PD0"/>
-<pinref part="J13" gate="G$1" pin="2"/>
+<pinref part="J12" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="TXD3" class="0">
 <segment>
-<wire x1="396.24" y1="226.06" x2="403.86" y2="226.06" width="0.1524" layer="91"/>
-<pinref part="J16" gate="G$1" pin="2"/>
+<wire x1="401.32" y1="226.06" x2="403.86" y2="226.06" width="0.1524" layer="91"/>
 <pinref part="IC6" gate="1" pin="PJ1(TXD3/PCINT10)"/>
+<pinref part="J15" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="RXD3" class="0">
 <segment>
-<wire x1="396.24" y1="223.52" x2="403.86" y2="223.52" width="0.1524" layer="91"/>
-<pinref part="J16" gate="G$1" pin="1"/>
+<wire x1="401.32" y1="223.52" x2="403.86" y2="223.52" width="0.1524" layer="91"/>
 <pinref part="IC6" gate="1" pin="PJ0(RXD3/PCINT9)"/>
+<pinref part="J15" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="LASER_PWM_ON" class="0">
@@ -25193,7 +25407,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <segment>
 <wire x1="223.52" y1="322.58" x2="157.48" y2="322.58" width="0.1524" layer="91"/>
 <label x="160.02" y="322.834" size="1.27" layer="95"/>
-<pinref part="J10" gate="-4" pin="1"/>
+<pinref part="J9" gate="-4" pin="1"/>
 </segment>
 </net>
 <net name="N$1" class="0">
@@ -25201,7 +25415,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="50.8" y1="256.54" x2="53.34" y2="256.54" width="0.1524" layer="91"/>
 <wire x1="43.18" y1="254" x2="50.8" y2="254" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="254" x2="50.8" y2="256.54" width="0.1524" layer="91"/>
-<pinref part="J15" gate="G$1" pin="DATA_IN"/>
+<pinref part="J13" gate="G$1" pin="DATA_IN"/>
 <pinref part="IC7" gate="A" pin="O"/>
 </segment>
 </net>
@@ -25210,7 +25424,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="53.34" y1="243.84" x2="50.8" y2="243.84" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="243.84" x2="50.8" y2="251.46" width="0.1524" layer="91"/>
 <wire x1="50.8" y1="251.46" x2="43.18" y2="251.46" width="0.1524" layer="91"/>
-<pinref part="J15" gate="G$1" pin="SCLK"/>
+<pinref part="J13" gate="G$1" pin="SCLK"/>
 <pinref part="IC7" gate="B" pin="O"/>
 </segment>
 </net>
@@ -25232,7 +25446,7 @@ http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf
 <wire x1="48.26" y1="218.44" x2="53.34" y2="218.44" width="0.1524" layer="91"/>
 <junction x="48.26" y="228.6"/>
 <pinref part="LED6" gate="G$1" pin="C"/>
-<pinref part="J15" gate="G$1" pin="CS"/>
+<pinref part="J13" gate="G$1" pin="CS"/>
 <pinref part="IC7" gate="C" pin="O"/>
 </segment>
 </net>
